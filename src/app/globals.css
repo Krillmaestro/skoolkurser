@@ -1,26 +1,148 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  /* Skool exact colors — extracted from live site */
+  --color-background: #f0f2f5;
+  --color-foreground: #191919;
+  --color-surface: #ffffff;
+  --color-surface-hover: #f7f7f7;
+  --color-border: #e4e4e4;
+  --color-border-card: #dddee0;
+  --color-accent: #16a34a;
+  --color-accent-hover: #15803d;
+  --color-muted: #737373;
+  --color-muted-light: #a3a3a3;
+  --color-success: #16a34a;
+  --color-sidebar-bg: #ffffff;
+  --color-sidebar-active: #f3f4f6;
+  --color-card-bg: #ffffff;
+  --color-header-bg: #ffffff;
+  --color-progress-bg: #e5e5e5;
+  --color-progress-fill: #16a34a;
+  --color-progress-text: #ffffff;
+  --color-tab-active: #191919;
+  --color-tab-inactive: #737373;
+  --color-tab-border: #3b82f6;
+  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+* {
+  box-sizing: border-box;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background: var(--color-background);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Custom scrollbar — Skool style (thin, subtle) */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #d4d4d4; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #a3a3a3; }
+
+/* Progress bar pill style — Skool green pill with white text */
+.progress-pill {
+  position: relative;
+  height: 22px;
+  border-radius: 11px;
+  overflow: hidden;
+  background: var(--color-progress-bg);
+}
+.progress-pill-fill {
+  height: 100%;
+  border-radius: 11px;
+  transition: width 0.5s ease;
+  min-width: 36px;
+  background: var(--color-progress-fill);
+}
+.progress-pill-text {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  padding: 0 10px;
+  font-size: 11px;
+  font-weight: 700;
+  white-space: nowrap;
+  color: var(--color-progress-text);
+}
+
+/* Skool nav tab active indicator — blue underline */
+.nav-tab-active {
+  position: relative;
+}
+.nav-tab-active::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: var(--color-tab-border);
+  border-radius: 1px 1px 0 0;
+}
+
+/* Card hover lift effect */
+.card-hover {
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+.card-hover:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transform: translateY(-1px);
+}
+
+/* Line clamp utility */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Lesson list item transitions */
+.lesson-item {
+  transition: background-color 0.15s ease;
+}
+.lesson-item:hover {
+  background-color: var(--color-surface-hover);
+}
+.lesson-item.active {
+  background-color: var(--color-sidebar-active);
+}
+
+/* Sidebar section expand/collapse animation */
+.sidebar-lessons-enter {
+  animation: slideDown 0.2s ease-out;
+}
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile sidebar overlay */
+.sidebar-overlay {
+  animation: fadeIn 0.2s ease-out;
+}
+.sidebar-slide {
+  animation: slideRight 0.25s ease-out;
+}
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+@keyframes slideRight {
+  from { transform: translateX(-100%); }
+  to { transform: translateX(0); }
 }

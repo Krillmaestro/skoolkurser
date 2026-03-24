@@ -36,6 +36,9 @@ yarn-error.log*
 # vercel
 .vercel
 
+# video files (too large for git — hosted on Google Drive)
+/public/videos/
+
 # typescript
 *.tsbuildinfo
 next-env.d.ts

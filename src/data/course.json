@@ -1,0 +1,1936 @@
+{
+  "title": "Evolve",
+  "extractedAt": "2026-03-24T09:12:22.583Z",
+  "programs": [
+    {
+      "id": "e564e94694c34df39349559c8be1b582",
+      "title": "📦 Evolve Supply Chain Program",
+      "description": "This program was made by our sourcing partners at Kanary, going through how to optimise supply chain and improve product quality.",
+      "coverImage": "thumbnails/program-1-cover.jpg",
+      "order": 1,
+      "sections": []
+    },
+    {
+      "id": "729b237e376a41629b72b5b91ca1a7f2",
+      "title": "💸 Evolve Finance",
+      "description": "This program focuses on better understanding your finances and how hard you can scale utilizing LTV. \"10-Million MRR Playbook\"",
+      "coverImage": "thumbnails/program-2-cover.jpg",
+      "order": 2,
+      "sections": [
+        {
+          "id": "4c3cea5a8988466b9c336e4269d66d89",
+          "title": "💰 Billing",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "45d6252f48964191b77065ea296745b4",
+              "title": "Meta Billing - How to Still Pay With Credit Cards",
+              "order": 1,
+              "description": "MELIO (Use This Link for Higher Approval)\nMELIO - PAY META WITH CREDIT CARD\n\nDoc For Step By Step:\nhttps://docs.google.com/document/d/16VLvbhJvlYwAEeC8mHWe63Q6KCqlbmCkdM-rVNkzLlo/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/evolve-finance-s1-l1.mp4",
+              "thumbnail": "thumbnails/evolve-finance-s1-l1.jpg",
+              "transcript": "",
+              "completed": true,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "289e321d1d0a4cc689f4505692688240",
+          "title": "♻️ Cash Conversion",
+          "order": 2,
+          "lessons": []
+        }
+      ]
+    },
+    {
+      "id": "1c0b77fa18634976b06f38a0f9347d9d",
+      "title": "Origins Program ($0-$100k/mo)",
+      "description": "Origins is the exact step-by-step process on how we scale from $0-$100k/month in eCommerce.",
+      "coverImage": "thumbnails/program-3-cover.jpg",
+      "order": 3,
+      "sections": [
+        {
+          "id": "d200ae757261488c88300a09aff5f545",
+          "title": "👋 Start Here",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "bdbf61088a334d4d8c2c946ad92f2ce6",
+              "title": "How you're going to scale to $100k/mo",
+              "order": 1,
+              "description": "Origins (In the first 3 months of running...)Nick Corliss - finding steady growth\n\nNoe Lembalemba - 1k/days\n\nSamuel Tulande - 2k/days\nWiets Burger hitting his first $1k/day\nTi Ecom finding his first winning ad\nJacob Roy hitting his first $10k/day\nAnd literally so many more... All while the community JUST 1/2 of the resources you NOW have...\nLiterally 2 pages of WINS already...\n\n\nAnd if you want to see the results we've already driven for members in Evolve, I'd encourage you to scroll below.I know these screenshots might look fake because of how crazy they are...But I can promise you they are 100% real.And the people who posted them are realIn fact, they started out just like you in eComSo use this to shatter any limiting beliefs you have in eCom and as a reminder that if you put the work, anything is possible.\n\n\n\n\n\n\n(This is Coach Mike btw who is IN THIS community)\n$100k/day in MEXICO...",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s1-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s1-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "1041b5356945438f812b994c9da8a0d6",
+              "title": "What to do in the first 48 hours",
+              "order": 2,
+              "description": "Fix your mindset/break beliefs (Origins Mindset)Make some new friends (Check out the map here)",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s1-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s1-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "fa55b558c3bc4d829a51937c5a459600",
+              "title": "What to do in the first 7 days",
+              "order": 3,
+              "description": "Double down/find your product (How to Find Products)Do your research/build your avatars (How to Create Avatars)",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s1-l3.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s1-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "00feee2c5f5447fca0d09fbc72f64cda",
+              "title": "What to do in the first 30 days",
+              "order": 4,
+              "description": "Your Meta ad account and BM are properly set up (How to Setup UIp FB Assets)Find a strong offer that can convert (Leverage How to Create Offers)Make 1 concept per day (3-5 days a week)Complete your feedback loops on every ad (This is your cheat code)Learning from other winning ads (This will cut your learning curve)Spend 90% of your time outside of the meta ad accountMost Importantly...\nYou do NOT give up.= MASSIVE W",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s1-l4.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s1-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "73e32ae3205744349629ee0d9f2387dd",
+          "title": "🧘 Origins Mindset",
+          "order": 2,
+          "lessons": [
+            {
+              "id": "d140484b2496458881e5541f975ba148",
+              "title": "How to prepare your mind for change",
+              "order": 1,
+              "description": "",
+              "duration": "9:28",
+              "videoFile": "videos/origins-program-0-100k-mo-s2-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s2-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "5ceddc4f417940fd94bb7e4da7c87bcf",
+              "title": "How long it will take you to get rich",
+              "order": 2,
+              "description": "The 10,000-hour rule:10,000 hours of deliberate practice is the key to achieving world-class expertise in any field\nWorking Every Single Day (not realistic)\n24 hours per day =  1.14 years12 hours per day = 2 years + 3 months8 hours per day = 3 years + 5 months4 hours per day = 6 years + 10 months\nWorking Every Day But One Day (1 Day Off Per Week)\n12 hours per day = 2 years + 8 months8 hours per day = 4 years4 hours per day = 8 years\nWorking Every Weekday (2 Days Off Per Week)\n12 hours per day = 3 years + 2 months8 hours per day = 4 years + 9 months4 hours per day = 9 years + 7 monthsIf you need a book to help you understand the power of consistently showing up every single day... This book is for you\nThe Slight Edge - $10:\nhttps://www.amazon.com/Slight-Edge-Turning-Disciplines-Happiness/dp/1626340463\nps. This up here ^ is the only book I have ever read more than once. It is that powerful",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s2-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s2-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "e05a224930624a7fbf3e7233a7036d0c",
+              "title": "How to guarantee success",
+              "order": 3,
+              "description": "Also known as: Why you won't succeed by just 'being consistent'\nFeedback Loops // Growth LoopsA feedback loop is a process where the output of a system is used as input to modify or reinforce future actions within that same system\n\n\"Insanity is doing the same thing over and over again and expecting different results.\"\n- Albert Einstein\n\nThe more you complete feedback loops, the faster you growThe better you complete feedback loops, the faster you grow\nEverything we teach you is from feedback Loops we have completed:\nMedia Buying - ❌Researching competitors only -  ❌Making creatives without understanding your customer -  ❌Copying ad templates and formats -  ❌\nAd Review Question Cheat Sheet (shown in video):\nhttps://www.skool.com/origins/classroom/03b8079b?md=4b1aa4ceea044eea9523e50545fd3928",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s2-l3.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s2-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "f90a05c64e2445cc8854bdc3fa3c7972",
+              "title": "💥 Action Item: Complete a Feedback Loop",
+              "order": 4,
+              "description": "Time To Put Into ActionTo practice completing feedback loops, make a copy of the document below:\nFeedback Loop Document:\nhttps://docs.google.com/document/d/17e_7Fu-C_1UiBRaUcwYXlAiua8TO1Ig_e68kY3m2V58/edit?usp=sharing\nStep 1: Think of the top 1-2 things that you are continuing to fail at over and over again.\nStep 1.5: Think of the top 1-2 things that you are crushing at over and over again.\nStep 2: Make a copy of the document for each one of those things\nStep 3: Fill out the document with your hypothesis\nStep 4: Fill in the action items on the document with what you\nStep 5: Hold yourself accountable to action those items\nStep 6: Organize your feedback loops so you can upload them to AI for future feedback 👀",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s2-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "639a93ed3dfb4fbe8a5d1d6d7a8932a8",
+              "title": "The whitebelt mindset",
+              "order": 5,
+              "description": "Why you should never act like you know everything\ns/o GSP",
+              "duration": "9:28",
+              "videoFile": "videos/origins-program-0-100k-mo-s2-l5.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s2-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "f106c2729c8a44209be46affcc67b386",
+              "title": "Why you actually never fail",
+              "order": 6,
+              "description": "How failing is actually just getting you closer to success\nMichael Reuben:\nhttps://www.youtube.com/shorts/MAZPIY4uUHs",
+              "duration": "9:28",
+              "videoFile": "videos/origins-program-0-100k-mo-s2-l6.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s2-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "b7be8abae77e4d76a24a9b4871b8fc29",
+              "title": "Why the fact it’s hard is actually good",
+              "order": 7,
+              "description": "If something were easy, everyone would have it. Difficulty is a filter that separates those who want it from those who deserve it.The “hardness” of something is what creates scarcity. Scarcity = value.“The fact that most people quit is the reason you shouldn’t.”\n- Someone smarter than meEmotional FramingEvery frustration (No winning ads, low ROAS, losing money) is proof that you’re in the arena. Most aren’t.Instead of saying “this is hard,” say: “This is the part that makes it worth it.”\nThat mindset flips pain into proof of progress.The very reason most people don’t have it, is the same reason it’s so rewarding when you finally do.The fact that it’s hard is what makes it worth it.\n- Mozi\n...Also, it’s not really that hard lol...\n\n🕰️ Then vs. Now — “Starting a Business in the 1990s vs. 2020s”THEN (1990s)\nHad to rent office space — even if you were solo.Needed landlines, fax machines, and physical business cards.Building a website? Cost $10K–$50K and took months.Marketing? Yellow Pages, newspaper ads, or local radio.To reach customers outside your city, you needed a warehouse, shipping partners, and trust built through mail-order catalogs.To hire? You posted in local classifieds. Couldn’t tap into global talent.Raising money meant begging banks or investors for a loan and wearing a suit.Scaling beyond your town required logistics, not just clicks.NOW (2020s+)\nYou can start a brand from your couch with $1,000 and a laptop.No-code tools (Shopify, Webflow, Zapier) let you launch a full business in a day.You can test ideas with AI, market research, ad copy, product names, instantly.You can hire people from the Philippines, Pakistan, or Eastern Europe for a fraction of local cost.You can reach 10,000,000 people overnight with one viral video or ad for FREE.You can receive instant feedback from comments, analytics, or surveys.You can sell globally, automatic translations, global payment processors, fulfillment handled by Amazon or 3PLs.You can learn everything for free on YouTube, X, or inside communities like Origins for less than $100.You can literally talk to an AI team 24/7 to help you brainstorm, design, and execute.In 1995, if you wanted to start a supplement brand, you’d need to convince a manufacturer to take your call, spend $30K on product runs, $10K on design, and pray you could get your product into local stores.\nIn 2025, you can get a Shopify template, prompt Claude for your product description, hire a designer on Fiverr, and run your first ad on Meta all before lunch.💡 Data & Historical ExamplesAmazon took three years to hit $1M/month in revenue.\n→ Many Shopify stores hit that in less than 6 months today.Nike’s first ad in the ‘70s cost $10,000 and reached thousands.\n→ A single UGC video can reach millions organically.Hiring developers in 1995: $80K+ salary, on-site.\n→ Hiring developers in 2025: $2K/month, remote from anywhere.",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s2-l7.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s2-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "6f71eda7ba8e4071884bee1213cbed69",
+          "title": "🧰 Tools + Suppliers We Use",
+          "order": 3,
+          "lessons": [
+            {
+              "id": "13113066de2945b28f9e27f4a3de2677",
+              "title": "Toolsuite - Ecom Tools provider",
+              "order": 1,
+              "description": "Toolsuite is an Ecom tools provider. Basically, they pay for more than 50 Ecom tool subscriptions and share access to all accounts with you via a private browser with a custom extension - saving you thousands a month if you paid for the tools by themselves.\nNormally, I hate using services like this because they're always trash with downtimes, browser loading slow, etc\nBut we've been using it ourselves and have tested it with other members in Evolve, and we're honestly surprised by how good it is for the price.\nEspecially as a beginner, spending money on all these tools by itself costs a lot. Toolsuite will save you a bunch of money.\n\nGET ACCESS NOW:\nhttps://whop.com/toolsuite/x-origins/\nUSE THE CODE ORIGINS10 TO GET 10% OFF\nCheck what they offer:\nGuarantees:\n> ✔︎ 24/7 tools access (no downtime)\n> ✔︎ No lag, super easy to use\n> ✔︎ New tools every month\n> ✔︎ Quick support for anything\n> ✔︎ Over 5000 satisfied subscribers\nTools list:\n• Pipiads — Save $260/month\n• Adspy — Save $149/month\n• PPSpy — Save $299/month\n• Kalodata — Save $99.99/month\n• Higgsfield (nanobanana) — Save $99.99/month\n• VEO3 — Save $99.99/month\n• Atria — Save $149.99/month\n• Adscalp — Save $79/month\n• Shophunter — Save $60/month\n• ChatGPT Plus — Save $20/month\n• Grok — Save $30/month\n• Peeksta — Save $49/month\n• Mokker AI — Save $45/month\n• Foreplay — Save $99/month\n• NicheScraper — Save $13/month\n• Futurelib — Save $99/month\n• CreativeOS — Save $99/month\n• Leonardo AI — Save $60/month\n• Ideogram AI — Save $60/month\n• Capcut — Save $15/month\n• DesignBeast — Save $69/month\n• VidIQ — Save $19/month\n• Brain.fm — Save $9.99/month\n• Unsplash — Save $13/month\n• Viralytic — Save $99/month\n• HeyGen — Save $178/month\n• GetHookd — Save $97/month\n• PicLumen — Save $10/month\n• Picsart — Save $10/month\n• Adsparo — Save $70/month\n• Staticflow — Save $50/month\n• Pacdora — Save $29/month\n• Denote — Save $99.99/month\n• Photoroom — Save $20/month\n• Perplexity Max — Save $200/month\n• Quillbot — Save $19.95/month\n• Freepik — Save $36/month\n• Canva Pro — Save $15/month\n• Mediamodifier — Save $99/month\n• Adworld Prime — Save $59/month\n• Captions.ai — Save $799/month\n• Jitter — Save $19/month\n• Hailuo AI — Save $99/month\n• Cockatoo — Save $89/month\n• Figma — Save $16/month\n• Signails — Save $350/month\n• Fish Audio — Save $15/month\n📈 A lot of BONUS tools included...\nThey also share with you:\n• 10,000+ templates and digital products\n💸  Total Monthly Savings: $6,637.86+\nGET ACCESS NOW:\nhttps://whop.com/toolsuite/x-origins/\nUSE THE CODE ORIGINS10 TO GET 10% OFF",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s3-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "d026f30a0e8d4035bcefdae95a1a082b",
+              "title": "Matedropshipping - China Supplier",
+              "order": 2,
+              "description": "After months of vetting and working closely with their team, I'm confident they're the right fit for our community. We already have Evolve members doing 7 figures per month using them as their primary supplier with zero issues.\n\nHere's what makes this partnership special:\n✅ NO minimum daily order requirement (exclusively for our community)\n✅ Fast sourcing\n✅ Option for US 3PL partnership - Faster shipping options for your American customers\n✅ Dedicated support - These guys are HUNGRY and responsive\nI can personally vouch for their commitment. When I was in China, Yohn (Dude in black shirt next to me) offered to fly out the NEXT DAY just to meet me. Then the entire team flew to Malaysia to visit me in person. That's the level of dedication they bring.\nThey handle everything from product sourcing and quality control to custom branding and direct shipping.\nContact:\n@Yohn Ding\nHere on Skool (DM on Skool requires you to be level 2 to prevent scammers - if you leave a few comments and posts here, it will level up easily)\nOr reach out directly on WhatsApp: http://bit.ly/4l0H3cS\nIf you want a quote, send them:\n1) A product link you want to source\n2) The countries you want to sell in\n3) How many daily orders are you currently doing. If none, just say no orders\n4) Any specific requirements\nLet them know you're from our community to activate the no-minimum partnership benefits.\nLooking forward to seeing you guys crush it with this new resource! 💪",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s3-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "c5eb30295b1d4084afd990ec71ad2442",
+          "title": "🔍 How To Find Products",
+          "order": 4,
+          "lessons": [
+            {
+              "id": "e45c326e520b40b987836fb20dedca3a",
+              "title": "Market Desires",
+              "order": 1,
+              "description": "Desires will be covered more in depth in \"How to Create Avatars\" after you've picked your product.",
+              "duration": "19:06",
+              "videoFile": "videos/origins-program-0-100k-mo-s4-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s4-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "1bb520e2793f4a99ac0a54c358debf97",
+              "title": "Market Sophistication",
+              "order": 2,
+              "description": "Sophistication will be covered more in depth in \"How to Create Avatars\" after you've picked your product.",
+              "duration": "19:06",
+              "videoFile": "videos/origins-program-0-100k-mo-s4-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s4-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "740c0173c78345c9b7a4a01fe4cade8b",
+              "title": "How To Find Winning Products (Brand Building) Pt 1",
+              "order": 3,
+              "description": "Note: If you haven't watched the modules on Market Desire and Sophistication, watch that first. If not, you will not get it. If you try to shortcut success, you will never be successful.",
+              "duration": "39:02",
+              "videoFile": "videos/origins-program-0-100k-mo-s4-l3.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s4-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "261ce2caaf4045838a0d6d9463c351c4",
+              "title": "Live Product Research w/ Kalodata - Pt 2",
+              "order": 4,
+              "description": "Note:\nTo clarify, this does not mean you should rip ads and hope for the best. You have to make your own ads together based on the following modules. If you don't figure out how to stand out beforehand and create your own ads to do so, you will not build any skills.\n\nChecklist from the video:\n1) For this method we're using a paid tool Kalodata. Kalodata is a tool that pulls the best performing TikTok shop products. You can get access to it for cheaper via Toolsuite\n2) Filter at the product level. Last 7 days, Avg unit price >$15, sales growing rapidly.\n3) Any of the products here not attached to a big brand (E.g. Goli, Shark, Comfrt) has the potential to be sold.\n4) Go through the listings and look into the brand to verify if it is a big brand. Do a Google search, check their social media following. If they're a established brand they can easily afford litigation to take you down. Not worth it running bootleg versions.\n\n5) Check the trademark websites on wherever you plan to sell to verify if the brand/product name has a trademark. For example in the US you may use https://tmsearch.uspto.gov/search/search-information (Free) or GPT/Claude to find out. If the product is called \"Blood Elixir\" and all the TT videos mention it, if you reuse those clips with product name mention there's a higher risk of getting taken down. In that case obviously use a different brand name and also different product name. Trademarked doesn't mean you can't sell the product, just means you can't use certain phrases on the site and ads.\n6) Use Similarweb (via Toolsuite) to estimate how much the store is doing. Always be more conservative. Let's say the average is 1% conversion rate (CVR). Estimate the AOV based on product selling price. Website visitors x CVR x AOV = Estimated Revenue. For this prod research method, the estimated revenue on the site is less important as some stores do a lot with TTS but not on their own website. Product can still sell via FB ads.\n7) Do some basic research on the product. Go through the top performing videos from Kalodata TikTok shop videos and the comments. See what's the current angle they're targeting, who they're targeting, what the comments are saying.\n\n8) Also go through https://www.facebook.com/ads/library and Atria (via Toolsuite) to see what the competition is running.\n\n9) Do more research based on the subsequent modules on how to find your avatar. Wherever possible - Google search, YT videos, IG reels, Tiktok videos. We know there's only 2 ways to win if you're not first to market. A new mechanism or an underserved avatar. The subsequent module will cover the avatar side. Our goal with this research is to find if we can find new angles, mechanisms, or avatars we can target besides what the competition is doing so you can stand out. So we need to know what types of angles your current competition is running and the current market sophistication level.\n\n10) Check with the supplier (supplier here) if the pricing they can get makes sense. You want to use tools like Claude, GPT or Amazon to check what is the average price for the product you're going to sell so it's reasonable and within expectation. If you're selling super premium prices but only sell cheap low quality products it won't go well. After getting a quote or checking on AliExpress, see if you 3x'd the COGS (cost of goods) + Shipping, if the product still falls under the expected price range. E.g. $20 COGs total, $60 selling price, $40-60 is expected price based on Claude/Amazon.\n\n11) After you found a potential product, you will create your own creatives based on research, alongside the top 10-20 best-performing (by revenue) videos that Kalodata shows. How to create the creatives is a module later in the course.\n\nNote:\nFor brand new beginners, I do not recommend starting out with a higher ticket item like the 1st product in the video at $100+ product price. Starting out, finding products you can sell for $40-80 is good\n\nAnd also, you can't rely on the ripped creatives to scale long term. Treat it as borrowed time. It's only a matter of time until it dies or gets taken down, even though the store has traction now treat it with urgency. Now you're profitable while trying to figure out how to create your own winning creatives that stand out.",
+              "duration": "59:45",
+              "videoFile": "videos/origins-program-0-100k-mo-s4-l4.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s4-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "8708d658abda45f1a3a097334c64ea6e",
+          "title": "🏷️ How to Create Offers",
+          "order": 5,
+          "lessons": [
+            {
+              "id": "e292720d29e14721b1f22ba41ae5c604",
+              "title": "Why offers have such a big impact",
+              "order": 1,
+              "description": "Offers, alongside ads, are one of the most powerful ways to scale your brand FAST.\n\nAnd if you are in Origins, I want you to scale FAST. The \n\nThe faster that you make money in here, the better it is for both of us.  \n\nSo, if you are creating ads and sending them to a page with a mediocre offer, finding winning ads becomes even HARDER (and it's already hard enough).\n\nSo by optimizing an offer and trying to provide more overall value (or perceived value) to customers can change the game for you.",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s5-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "e02ff5a306064fd5a0bcb2772d845676",
+              "title": "Why you MUST know your numbers with new offers",
+              "order": 2,
+              "description": "This video was originally planned to go through all of the offers...\nHowever, I have split this into two parts, so please make sure you watch the second part as well.\nThe Origins Offers Document:\nhttps://docs.google.com/presentation/d/12HlY41TgffCVMKKXyRRzwyquHXEgNBpB7pEKY0cp80g/edit?usp=sharing\n\nLink To Calculator:\nhttps://www.easyamedia.com/profit-calculator\n\nREMINDER\nThat calculator can be glitchy. So if you're having issues, make sure you just remove the numbers and type them back in. And if you have any spaces that are empty, make sure you put a zero. \n\nIf you message me saying the calculator is broken, I will tell you to come back and watch the video again.",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s5-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "40745e7322f54cb88167dd406a3aa45c",
+              "title": "The types of offers you can run",
+              "order": 3,
+              "description": "The Origins Offers Document:\nhttps://docs.google.com/presentation/d/12HlY41TgffCVMKKXyRRzwyquHXEgNBpB7pEKY0cp80g/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s5-l3.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "dd1b549ec25c4125b23b5c9e5f12c85f",
+              "title": "💥 Action Item: Plan Your Offer",
+              "order": 4,
+              "description": "Time To Put Into ActionNow that you have been given the information on how to know your numbers with specific offers and the different types of offers that you can run, I want you to go and start planning some offers that you could potentially build inside of the offer sheet linked here:\n\n My rule of thumb is to always try to keep your margins above 60%. Anytime you go below 60%, it can start to be a little bit slippery. \n\n Ideally, you want to keep margins at a bare minimum of 50%, and ideally closer to 70%. \n\n(Which is why 60-70% is more of a sweet spot)\n\n That said, if you can put yourself in a position where you have 70% to 80% margins and you are seeing good conversions. \n\n Then by all means, you can also try to have more aggressive margins as well. \n\nThe Offer Creation Sheet:\nhttps://docs.google.com/spreadsheets/d/16QG7kI0vYGvJm7w90-0dO40Ekt5aVzwrKtcSwpL_QsU/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "093fb36ebda1487685eaeac39f93277b",
+              "title": "How to create an offer",
+              "order": 5,
+              "description": "The Offer Creation Sheet:\nhttps://docs.google.com/spreadsheets/d/16QG7kI0vYGvJm7w90-0dO40Ekt5aVzwrKtcSwpL_QsU/edit?usp=sharing\nKaching Apps Mentioned (most common from EVOLVE if you don't use PageDeck)\nhttps://www.kachingappz.com/",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s5-l5.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "926e7de6595f413d965494930c95036f",
+              "title": "💥 Action Item: Create Your Offer",
+              "order": 6,
+              "description": "Time To Put Into ActionNow that you have your offer, it's time to actually bring the offer to life. \n\nAgain, the recommendations that I have for you down below on how to create offers is very simple. You can either go into PageDeck, you can do this on your own theme, or you can use an app like KaChing. \n\nThe example that I show is using Page Deck, but I'm sure you will be able to navigate through either YouTube videos or other things to be able to actually bring the offer to life on your website or a landing page.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "2a0bf3a8258f4e06a88e1e2218c889c1",
+              "title": "How one offer can 2x ad spend and 3x ROAS",
+              "order": 7,
+              "description": "Offers Sheet:\nhttps://docs.google.com/spreadsheets/d/1wWq4rkL29SkqajwNnbtB1kGgIUnYs_IgNNrhXfDuL1o/edit?usp=sharing\nPageDeck - $126/month + 7 day free trial\npagedeck.com/\nUse Code: EASYA15 at checkout",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s5-l7.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "0f6be1f32d264a6b8c59de85ec00a8fc",
+              "title": "💥 Action Item: Sign Up For Pagedeck + Test Offer",
+              "order": 8,
+              "description": "Time To Put Into ActionTo be able to do the same thing for your brand, you MUST take action. Here are the steps below:\nStep 1: Sign up for Pagedeck and save 15% off with code EASYA15 & start 7-day trail\nStep 2: Follow the steps to get set up and download the page template\nStep 3: Optimize your page for your brand specifically\nStep 4: Begin laying out potential offers you can test for your brand specifically\nStep 5: Bring that offer to life through Pagedeck's simple builder\nStep 6: Duplicate your best ads and test the new page, leveraging the 1 campaign setup\nStep 7: Test for 3-7 days.If it does not convert, complete your feedback loop to figure out why\nStep 8: Keep testing until you find a breakthrough\nStep 9: Chad scale and post W in the community",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s5-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "cabbc07c8f7a47d19fd4ed2faebf1ea4",
+          "title": "🧍How To Create Avatars",
+          "order": 6,
+          "lessons": [
+            {
+              "id": "bc43ff8113f74c2aae07d6e19075b92d",
+              "title": "Understanding Your Product - Part 1",
+              "order": 1,
+              "description": "Before creating avatars, you MUST understand what you are selling",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "a326ea25ed9b431b9befc59ab1d07655",
+              "title": "Understanding Your Product - Part 2",
+              "order": 2,
+              "description": "This is for anyone who wants to put in the work to grow & understand their product on the deepest level.\nHowever, it's especially for you if you have not done ANY real research before this.\nTools:\nhttps://hemingwayapp.com/",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "0b4bfa33cccb4c5caf0d935cacb2ebfa",
+              "title": "Understanding Your Product - Part 3",
+              "order": 3,
+              "description": "Expedite the process with Claude.ai custom projects to fill out the product document for you. However I STILL recommend Origins members doing this manually... \n\n\"Your work, works more on you than you work on it\"\n2:40 - Research Document \nThis research document is specific to EVOLVE members. But for Origins Members, you will essentially create the research document by taking action on the modules to follow below.\n2:47 - Onboarding Document\nThis is another EVOLVE-specific document where our clients fill out their own onboarding form. But, if you want to fill these questions out yourself, here is the document to fill out: https://docs.google.com/document/d/184VerkTvvU6zoj0ooTZIvrsF63DR1UvZRrKHWDDWITw/edit?usp=sharing\nPrompt:\nHello, I would like to create a custom project tailored to assist our marketing agency in creating more effective, data-driven ads for our client, an E commerce Brand. Brand name: BRAND Brand website: YOURWEBSITE The purpose of this custom project is to support the following key marketing functions for this brand: Customer Understanding & Market Trends: Analyze customer surveys, buyer personas, and behavioral data to uncover customer preferences, pain points, and purchasing motivations.Identify market trends and audience segments relevant to this brand’s products. Market Research & Competitive Analysis: Gather and analyze data on competitors and broader industry trends. Identify opportunities for differentiation in brand’s positioning and advertising strategies. Creative Ideation & Strategy: Generate new creative concepts and strategies for ad campaigns based on insights from market data, customer feedback, and competitive analysis. Provide feedback on existing ideas, suggesting improvements grounded in customer insights and market trends. Scriptwriting & Copy Development: Assist with crafting persuasive, targeted scripts for ads and other marketing materials. Review and critique copy-writing to ensure it resonates with the target audience, incorporating customer pain points and desires. Ad Review & Performance Feedback Loop: Assist in analyzing post-launch ad performance by reviewing metrics such as ad spend, ROAS, hook rate, hold rate, CTR, etc. Provide insights on why certain ads performed well or underperformed, identifying key learnings from each campaign. Close the feedback loop by suggesting actionable takeaways from winning and losing ads, incorporating these learnings into future creative strategies. Knowledge Base: This project should use the attached files as its primary knowledge base and refer to the information within when providing insights or recommendations. Whenever this project provides an answer, it should be informed by the content within the knowledge base. It should autonomously apply the insights from the attached files to ensure all responses are grounded in data and relevant context. Key Responsibilities: Interpret customer feedback and survey data to identify trends and actionable insights. Suggest ad strategies, creative angles, and copy that align with market research and customer insights. Ensure all insights, scripts, and suggestions are data-driven and relevant to brand’s target audience, drawing on the knowledge base provided. Analyze ad performance post-launch, using key metrics to provide insights into ad success or failure. Instructions: Always ground your responses in the content within the knowledge base. Highlight any recommendations based on specific insights or principles from the provided data or resources, especially when drawing on \"Breakthrough Advertising.\" Prioritize relevance to brand’s audience, and use data to back up your suggestions.\"",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l3.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "17859f30296e40889ce44787366cf723",
+              "title": "💥 Action Item: Complete Understanding Product Doc",
+              "order": 4,
+              "description": "Time To Put Into ActionMake a copy of the document below & fill it out according to the video:\nProduct Document: (Make a Copy)\nhttps://docs.google.com/document/d/1NTdbKBNu3t-5hPsx_4i37F4cTt8CF_aL0oDwSDH1ihQ/edit?usp=sharing\nExamples For Reference:\nhttps://docs.google.com/document/d/1LbigXSULvBye66fxW3EQJf9y_Wlspkx5XmUTpPLaKkc/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "aad43a6527294628b243fc4fcbff4f9d",
+              "title": "Understanding & Applying Desire - Part 1",
+              "order": 5,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l5.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "c0504e0dedec418eb68fba6192cd2982",
+              "title": "The Desire Calendar - Part 2",
+              "order": 6,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l6.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "dc57c21ffc4848cfaf53e40624169140",
+              "title": "How To Find Desires - Part 3",
+              "order": 7,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l7.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "b705a3f335b641cbb8484283db817b10",
+              "title": "💥 Action Item: Start Your Desire Hunt",
+              "order": 8,
+              "description": "Time To Put Into ActionMake a copy of the document below & fill it out according to the video:\nDesire Hunting Template: (Make a Copy)\nhttps://docs.google.com/document/d/1h678QebgFd_TH-k8eZ0wfJsWCTn9HbAGBRmlVDlRxj0/edit?usp=sharing\nDesire AI Deep Research Prompts: (Make a Copy)\nhttps://docs.google.com/document/d/1Rv8lVzpV8FoTz9BkaV_ALllLGSO3dlGs2zP1q9G8ooU/edit?usp=sharing\nThe Desire Calendar:\nhttps://docs.google.com/document/d/1LpCp3CsTxkRnntiYTfeLx5e3UcBy_3NOLur-9HsNQWo/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "7e258d4e2b14440ca5e9afc3f9db5fec",
+              "title": "Understanding Market Sophistication - Part 1",
+              "order": 9,
+              "description": "Market Sophistcation Document:\nhttps://docs.google.com/document/d/1PRDRnAG6iBwWO3qakU3vrDVtwu4UdeWTg-0V7ag0sN4/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l9.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "f6c0be0b1bd4455e8d157785132ac9a8",
+              "title": "How To Find & Apply New Mechanisms - Part 2",
+              "order": 10,
+              "description": "New Mechanism Finder Prompt:\nhttps://docs.google.com/document/d/1naBDlH29gpvxp8tZFhbTHnJmqC9m9cUss9tuDij6iRs/edit?usp=sharing\nYouTube Video Mentioned:\nhttps://www.youtube.com/watch?v=Mt0A-JzIpe8\nMarket Sophistcation Document (Again)\nhttps://docs.google.com/document/d/1PRDRnAG6iBwWO3qakU3vrDVtwu4UdeWTg-0V7ag0sN4/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l10.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l10.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "f3672b58e4d648afa77e9efe0b829b9a",
+              "title": "💥 Action Item: Identify Your New Mechanisms",
+              "order": 11,
+              "description": "Time To Put Into ActionFollow the prompt below to assist you in the process of identifying potential new mechanisms for you to target.\nNew Mechanism Finder Prompt:\nhttps://docs.google.com/document/d/1naBDlH29gpvxp8tZFhbTHnJmqC9m9cUss9tuDij6iRs/edit?usp=sharing\nYouTube Video Mentioned:\nhttps://www.youtube.com/watch?v=Mt0A-JzIpe8\nMarket Sophistcation Document (Again)\nhttps://docs.google.com/document/d/1PRDRnAG6iBwWO3qakU3vrDVtwu4UdeWTg-0V7ag0sN4/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l11.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "6efbf013d2b647559877ce27f7e668cf",
+              "title": "How To Find & Apply New Information - Part 3",
+              "order": 12,
+              "description": "REMINDER - BE ETHICAL. DOUBLE CHECK YOUR FACTS. DOUBLE CHECK AI RESEARCH. DO NOT BE A PIECE OF SHIT.\nNew Information Finder Prompt:\nhttps://docs.google.com/document/d/18cxeIZ8Zv8INHyQsCEP6t8jHj14s13JvqUrc3CYwAwY/edit?usp=sharing\nMarket Sophistcation Document (Again)\nhttps://docs.google.com/document/d/1PRDRnAG6iBwWO3qakU3vrDVtwu4UdeWTg-0V7ag0sN4/edit?usp=sharing\nMini Text Prompt:\nI have attached my prompt as \"New Information Prompt\"\nHere are the product URL + Product Name for the prompt:\nProduct Name: [YOUR PRODUCT]\nProduct URL: [YOUR PRODUCT URL]",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l12.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l12.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "21ee1818f9ce4393bcf1e0d7dccb1914",
+              "title": "💥 Action Item: Find New Information For Your Ads",
+              "order": 13,
+              "description": "Time To Put Into ActionFollow the prompt below to assist you in the process of identifying potential new mechanisms for you to target.\nNew Information Finder Prompt:\nhttps://docs.google.com/document/d/18cxeIZ8Zv8INHyQsCEP6t8jHj14s13JvqUrc3CYwAwY/edit?usp=sharing\nMarket Sophistcation Document (Again)\nhttps://docs.google.com/document/d/1PRDRnAG6iBwWO3qakU3vrDVtwu4UdeWTg-0V7ag0sN4/edit?usp=sharing\nMini Text Prompt:\nI have attached my prompt as \"New Information Prompt\"\nHere are the product URL + Product Name for the prompt:\nProduct Name: [YOUR PRODUCT]\nProduct URL: [YOUR PRODUCT URL]",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l13.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "912c26c73ab54dfc9648e0420e971cde",
+              "title": "How To Find & Apply New Identities* - Part 4",
+              "order": 14,
+              "description": "The Next module will cover the tactical side of this if you want to skip this more \"Explainer\" style video.",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l14.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l14.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "951cce6a4a0e4afa965e8a31ea770066",
+              "title": "The Origins Avatar Training (Evolve Special)",
+              "order": 15,
+              "description": "Limited Document Access (Extended Tabs Only):\nhttps://docs.google.com/document/d/1Q5Ea_cJpJBhMT7oCAn7aKqH9i1fV2HfWoRYe3hnSpLA/edit?usp=sharing\n\nUnfortunately, the document on screen can not be shared as this version was originally filmed for EVOLVE only. \n\nI had planned on a simplified \"Origins Version\"... But, I don't want to cut any corners here. This is the training that you need. So, it's the training that you're getting.\nThat document is reserved for EVOLVE Members only, as there are a lot of \"scammers\" who still join this community to steal our resources. \n\nThat said, this video has every single thing you could need.\n\nI hope you enjoy.",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l15.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l15.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "a92be8e74b3949af905b2b9aa8e022f3",
+              "title": "💥 Action Item: Take A Breather",
+              "order": 16,
+              "description": "Time To Take \"Inaction\" lolListen, that module that you just watched was dense as hell.\nYou just consumed a shitload of information.\nSo, what I want you to do is take a breather.\nGo touch some grass\nGo have some lunch, eat some dinner\nWhatever you need to do.\nHowever, if you did split up that module into multiple sessions, that's fine\nBut, what's really important for you to do now (or once you get back) is to open up a Google Document or a note page and write down your 3-5 biggest takeaways so they STICK:\nExamples:\nThe broader my avatar, the better everything else has to be.Desires are great for creating core avatars.Etc.Once you've written your takeaways, it's time to proceed to the next session, where we start to build out the avatars together.\nps. If you watched the ENTIRE lesson in 1 day, come back to the next module tomorrow or later today.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l16.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "af6daf94038c450a9d1b2541756a5194",
+              "title": "How To Build Core Avatars",
+              "order": 17,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l17.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l17.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "6fd3dbf7d6a1451c9db8627d17f53165",
+              "title": "💥 Action Item: Identify Your Core Avatars",
+              "order": 18,
+              "description": "Time To Put Into ActionLeveraging the desires that you found in the previous steps in the How to Create Avatar series. \n\n It's now time to start creating and organizing some of your Desire-Based Core Avatars.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l18.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "f8888a069ad64feeb05ccae5aa289b93",
+              "title": "How To Build Sub Avatars",
+              "order": 19,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s6-l19.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l19.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "df3bcc12a4ee4fb89c861dcb17ddeeb4",
+              "title": "💥 Action Item: Create Your Sub Avatars",
+              "order": 20,
+              "description": "Time To Put Into ActionNow that you have identified one desire-based core avatar, and you have the information to start building out sub-avatars, you must now begin building out sub-avatars based on the research.\n\nRemember that these sub-avatars will be used to come up with advertising angles that are actually relatable and customer first. \n\n You got this.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s6-l20.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "0482aa7cd9714811a0217c20570ee9fb",
+          "title": "🫠 Watch This If Overwhelmed",
+          "order": 7,
+          "lessons": [
+            {
+              "id": "4c7dcc840202435881a5e38d20199073",
+              "title": "🆕 How to feel better about being overwhelmed",
+              "order": 1,
+              "description": "First, what is the definition?\nDefinition: \nBury or drown beneath a huge mass.\nOur Definition:\nGive too much of a thing to (someone);\nStory: (AF 2024)\nClickup Notes\nWhat You Have To Do:\nStudy → Research → Create → Test → Feedback Loop → RepeatStudy: Learning new information to build your knowledge basis\nResearch: Figure out what people want\nCreate: Communicate how you can help those people get what they want\nTest: Launch tests in 1 campaign. If it gets spend = good. If it does not get spend = not good.\nFeedback Loop: Make educated guesses on why your ad is working or not working\nRepeat: Go back to researching again, or leverage learnings from the feedback loop to make more.\nThat's It.\n\nWords I Live By:\nThis system is exactly how you're going to get to 100k/month and exactly how others get to 100k/day",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s7-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s7-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "66c814b922c0453fb4146de3af627f9b",
+          "title": "📢 How To Create Ads",
+          "order": 8,
+          "lessons": [
+            {
+              "id": "975e13e6f34b4151bab7ff537b45f877",
+              "title": "Understanding ad definitions",
+              "order": 1,
+              "description": "Defintions:\n💻3:2:2 ⇒ 3 creatives, 2 body copies, and 2 headlines\n12-Year-Old Definition: The testing structure we use inside of Meta. \nExample:\nThis ENTIRE thing is a Concept. “3” = Variations of that 1 Concept. \n“2:2” = 2 Headline + 2 Body copy for that Concept that you put inside of Meta.\n\n\n📂Concept/Batch/Test #:⇒ The tracking number for this test\n12-Year-Old Definition: The number you use to keep track of which test you're on\nExamples: \nBatch #1, Batch #29, Batch #133\n💡Concept/Swing ⇒ The test strategy - what you're testing in this batch\n12-Year-Old Concept Definition: The big idea behind the ads you want to test\nExamples: \n\"Test an iteration on a winning video.\"\n\"Test superlative angles.\"\n\"Test UGC format\"\n\"Test different avatars.\"\n\n🔗Angle⇒The selling strategy - how you're choosing to sell the product\n12-Year-Old Angle Definition: The main reason you're giving someone to buy \nExamples:\n\"Buy It For Life\"\n\"Postpartum weight despite trying everything\"\n\"Stainless steel / Doctor-designed / Cleanest\"\nKey insight: Every ad needs an angle. Even if your concept is \"testing formats,\" you still need to define what you're selling. If your concept is “Testing X Angle” the concept becomes the angle. But for tracking purposes, I prefer to actually JOT DOWN the angle twice so we can be sure.\n\n\n🔀Variations ⇒ Individual executions of the angle(s)\n12-Year-Old Variations Definition: Different ways to communicate your selling reason(s)\nExample: \nIf your angle is \"Buy It For Life,\" variations might be: \"One harness, lifetime of adventures,\" \"Buy it once, adventure for life,\" or \"End the replacement cycle\"\nIf testing multiple angles, variations might be different angles like \"Stainless steel,\" \"Doctor-designed,\" \"Easiest to clean.\"\n\n\n🖼️Format ⇒ How you deliver the ad\n12-Year-Old Format Definition: The type of ad you're making\nExample: You could show the same message as a video of a real person talking, a slideshow of pictures, or just a product image.",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "249aba4c2be64ce786c04a31297ffb0f",
+              "title": "How to come up with ad angles",
+              "order": 2,
+              "description": "If you have skipped to this section, you need to go back and watch the🧍How To Create Avatars training\nPrompt:\nhttps://docs.google.com/document/d/1827xcvwVGb_O8RbZrkp-cDxwjd72Ui2N3BJd0dP0epM/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "25ee4f0c042a484f8ff3567c557ff957",
+              "title": "💥 Action Item: Come Up With New Ad Angles",
+              "order": 3,
+              "description": "Time To Put Into ActionNow that you've realized the whole entire point of coming up with avatars and sub-avatars is to come up with advertising angles.\nThese ad angles are what will make or break your concepts and ultimately your success with ads.\nSo, make sure that you identify your ad angles for your ad creatives",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "1abd03e1a61c48979d1cc9debb1a99b6",
+              "title": "The 3 Testing Methods - Part 1 (Origins Version)",
+              "order": 4,
+              "description": "If you have skipped to this section, you need to go back and watch the🧍How To Create Avatars training\nKeep It Simple.\nImage Tests = Marksman \nVideo Tests = Sniper",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l4.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "8dae879e22df4f7b89d8a5b63497bd22",
+              "title": "Putting It All Together (Origins Version)",
+              "order": 5,
+              "description": "If you have skipped to this section, you need to go back and watch the🧍How To Create Avatars training\nDocument:\nhttps://docs.google.com/document/d/1E73Z3rReZjgqJynT4fLLokcag_8xiNNWBSIcZctBqMM/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l5.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "cf15b9b20439416ea153b70ed8185b9a",
+              "title": "Every Ad Format That You Can Use",
+              "order": 6,
+              "description": "This module is a part of our newest \"🧍How to Create Avatars\" series, but fits in the \"📢 How to Create Ads\" section.\nThe goal is for you to be much clearer with your editors on what type of FORMAT you want, rather than just saying video or image.\nhttps://docs.google.com/document/d/1jG7F2PH_U37SZAjm43H3-664BZsmprWoSF7wylUW68M/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l6.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "6f4463e24718480cb424e9a084a1dfea",
+              "title": "💥 Action Item: Plan Your 5-10 First Concepts",
+              "order": 7,
+              "description": "Time To Put Into ActionNow that you've understood the preparation that is needed, it is time to write down 5-10 concepts that you want to test.\nFrom there, you will watch the following module below to learn how to organize them inside the Creative Roadmap",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "9112b84114ca4ee49d01c2364445ffd3",
+              "title": "The Origins creative roadmap",
+              "order": 8,
+              "description": "https://docs.google.com/spreadsheets/d/1cyllKRUWuEyebK65XDZCrx-C0F6ml-EARZ7YPDKvS_I/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l8.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "4376d5e8769a47a198b574daf6e15219",
+              "title": "💥 Action Item: Add Concepts Into The Growth Guide",
+              "order": 9,
+              "description": "Time To Put Into ActionThis tool is the number one tool that allows brands that evolve to hit 100K days. It is now yours to leverage as well.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "fa6a8b6623af4853bc26190e47ca76cc",
+              "title": "How to create image ads - part 1",
+              "order": 10,
+              "description": "Master Document Template (if you want it):\nhttps://docs.google.com/document/d/1HqmKhRnQE2rSZX0myJZE_ntOUjjap6Qt28hiC115xT8/edit?usp=sharing\nHere is the brief template for you (if you have editors)\nhttps://docs.google.com/document/d/1pxoc0mAdaM9iQ0mkgK7r1t1kvgeFq-Y0NJEtx7pt8rw/edit?usp=sharing\nAngle Prompts Used:\nhttps://docs.google.com/document/d/1827xcvwVGb_O8RbZrkp-cDxwjd72Ui2N3BJd0dP0epM/edit?usp=sharing\n\n13+ Winning Static Ads Templates:\nhttps://www.skool.com/origins/classroom/03b8079b?md=9661bd66b88b4069a0df59cb879e081f\nChrome Extension:\nhttps://chromewebstore.google.com/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en\nFinal Ads (After some revisions)",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l10.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l10.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "82afa2e4737f4d469622905b7e8a69fa",
+              "title": "How to create image ads - part 2",
+              "order": 11,
+              "description": "0:00 - Research + Flow\nIn the first part of the video, I talk about the importance of research, how to do more research for sub-avatars to get more ideas, as well as the importance of not just restricting yourself to JUST research. It's important that if you have a creative idea for writing, you can just start writing it.\n9:04 - Image First Training\nImage firsts approach --> Sourcing Image styles FIRST, putting into Claude, and having it replicate the ads for you.\n39:50 - Reviewing Part 1 Designs\n at this point, we start to review the images that I made in part 1, the module above this to talk about the Pro Tip linked below.\n44:40 - Answer FAQs Below\n46:30 - Making a Congruent Image With Nano Banana AI\n\n⭐️ Pro Tip:\nRather than making more ads after a break, just optimize the existing ads you previously made. Give your brain SPACE to marinate ideas and come back with fresh eyes.\nTools I Used In The Video:\nCreative OS:\nhttps://www.creativeos.com/\n\nNano Banana:\nhttps://aistudio.google.com/\nFAQs:\nAre those big enough swings if you use the same template?\nYes.\nCan you test different visuals (Like the Carepod method)?\nYes.. But I would only recommend it if you have a graphic designer who can make congruent ads\nFinal Ads From Part 2:",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l11.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l11.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "e995d83c89a34b26aa79a3816dcda5d8",
+              "title": "13 winning static ads breakdown + templates",
+              "order": 12,
+              "description": "Overview:\nhttps://www.canva.com/design/DAGv0-DtovY/5zQYd6JKf0oIEGN7lsYPHg/edit?utm_content=DAGv0-DtovY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nTemplates\nhttps://www.canva.com/design/DAGv1K4k9Dw/iszxebXRuZ4tX6qEqFvCug/edit?utm_content=DAGv1K4k9Dw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l12.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l12.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "dfc83c1ef2b64a0896f0233d399288b7",
+              "title": "💥 Action Item: Make Your First Image Ads",
+              "order": 13,
+              "description": "Time To Put Into Actionit's time for the fun part. It's time to start bringing your work to life.\nRemember\nDon't overcomplicate it.Use your researchWrite the best ads that you can.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l13.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "415ab6c362df44efb4376647e1d966c3",
+              "title": "What winning video ads look like (9 examples)",
+              "order": 14,
+              "description": "If you want to get better at making ads, you need to study what winning ads look like.\nThis is the fastest way for you to better understand how to write winning video ads.\nThe tools that I use to find winning video ads:\nhttps://app.adspy.com/\nThis is NOT an affilaite link.\nI use AdSpy to search up brands, filter by \"ads active during the last 6 months\" and then I sort by shares. The ads with the most shares 9/10 are their top performing ads.\nLink to the document with winning ads\nhttps://www.canva.com/design/DAG4DZrWP5M/19YXTsmzNXU2PDrM3gn-Og/edit?utm_content=DAG4DZrWP5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l14.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l14.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "54420c2696994cf5bb54da72d208f93e",
+              "title": "💥 Action Item: Study The Winning Video Ads",
+              "order": 15,
+              "description": "Time To Put Into ActionCorrecting your eyes to SEE what a GOOD video ad is, is the first step to being able to write GOOD ads.\n\nSo take the time to deep dive into these ads, process learnings, and take notes on what makes them work.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l15.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "f63fc54c5f16425d99d437b7dd5bcd3b",
+              "title": "The importance of copywriting for videos",
+              "order": 16,
+              "description": "Copy Guide:\nhttps://docs.google.com/document/d/1X--E5X_yNBnasp-ZZVZNGTn40HdA4vcsDPb3GmoB8b0/edit?usp=sharing\nThe Daily Tracker (Mindset)\nhttps://docs.google.com/spreadsheets/d/1rWnYNdY1zgSr3GpWLB9J5bFYss_TbiDwb5TmX5qaJEs/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l16.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l16.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "11072bc4558241e4966f53d289db28cf",
+              "title": "How to write a video ad - Part 1",
+              "order": 17,
+              "description": "Here is the prompt:\nhttps://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C-NzXHIWVhiviqcgWF0m3w/edit?usp=sharing\nHere is the ideation Template For writing:\nhttps://docs.google.com/document/d/1pxoc0mAdaM9iQ0mkgK7r1t1kvgeFq-Y0NJEtx7pt8rw/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l17.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l17.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "3b1b4928e1d94fa1befcb7d2ea1f7600",
+              "title": "How to write a video ad - Part 2",
+              "order": 18,
+              "description": "Here Is The Prompt Again:\nhttps://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C-NzXHIWVhiviqcgWF0m3w/edit?usp=sharing\n\nHere is the ideation Template For writing:\nhttps://docs.google.com/document/d/1pxoc0mAdaM9iQ0mkgK7r1t1kvgeFq-Y0NJEtx7pt8rw/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l18.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l18.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "9dc54f5b2db24b2baf6e32b4dc4a5135",
+              "title": "💥 Action Item: Write Your Video Ads",
+              "order": 19,
+              "description": "Time To Put Into ActionRemember to use the prompt to get the base of the ads done.\nOnce you have the base, put them inside of the writing doc or sheet\nAfter you have it in there, it's time for you to go through and make your manual corrections and pull up your research alongside them\nOnce you've made your manual corrections, you can put them back through Claude to double check and optimize any other pieces that are needed\nAnd voila, you then have your finalized script.\nHere Is The Prompt Again:\nhttps://docs.google.com/document/d/11fMpEFheBCONwW2xW7e11C-NzXHIWVhiviqcgWF0m3w/edit?usp=sharing\n\nHere is the ideation Template For writing:\nhttps://docs.google.com/document/d/1pxoc0mAdaM9iQ0mkgK7r1t1kvgeFq-Y0NJEtx7pt8rw/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l19.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "d16d210517e544ad8608bfe0f401e34e",
+              "title": "How to get content for ads + options for editing",
+              "order": 20,
+              "description": "How Coach Mike Edits Videos\nhttps://www.skool.com/origins/classroom/28df2df0?md=5592f671bcd74f049871859cc640ee45\nWhere To Get Content:\nGridbank --> $250/month paid quarterly + fastest method to get any generic clip\nInsense --> $500/month paid quarterly + (UGC method 100% authentic + potential brand ambassador for filming in the future)  --> Save $100 with EASYA100\nArcads --> $99/month paid monthly + this is something I don't really endorse.  but my perspective on it is changing, and if you are using it for B-roll purposes, then you're fine if you ask me.\nFilm/Source Yourself  --> This one cost $0. You can simply film the visuals yourself or you can hunt down creators on IG or. TikTok, get in contact, and ask them to film clips/videos for you.\nSource yourself --> You can source from the internet from content creators with less than 5k followers. DO NOT RIP the video; you simply \"rip\" their clips. That said, this has copyright issues. Creators will message you asking for payment and compensation to use their content if they see your ad, and you can get banned.  I was hesitant to add this in here, but this is something that people do. If you ask me, it's better than ripping, but still not that great.\nLearn How To Edit Like The Top 1% + Make Enough Money to Hire From eCom Talent Later On.Use Code EVOLVE10 for 10% OFF (It's $90/month)\nLearn More:\nhttps://whop.com/ecomtalent/\n\nPurchase It Directly: Use Code EVOLVE10 for 10% OFF \nhttps://whop.com/checkout/plan_4ZrwR4PmBsVsx?d2c=true&a=sales0387\nI want to make it clear that you do NOT have to edit your own videos.\nHowever, this is a skill that I would recommend everyone sub $30k/month do.\nWHY?\nExecution is one of the BIGGEST reasons your ads fail.\nAnd because of your stage\nYou can NOT afford QUALITY editors.\nSo, if you don't have a good editor, and because you don't have the $$$ or opportunity to attract a good one, you should likely learn how to do it yourself.\nFor context, SHAUN edited all of the videos at the agency when we started out...\nBut Shaun didn't have what I am about to offer you here.\nAgain, here is the link & the information for eComtalent from Karlo:\nWhat is ecomtalent?Ecomtalent is a course and a community made to train video editors/graphic designers on how to make winning ads for ecom brands. The entire point is to train killer editors and ultimately turn them into creative strategists who can also make ads. A one-man team.\nWhat's inside the course?The course consists of 15+ hours of content ranging from marketing fundamentals (Because that's still the most important thing for editors) to video ads, static ads, and AI implementation.\nI show the scenes look into how we produce winning ads at the agency.\nThe last section of the course is all about creative strategy. (This unlocks 30 days after joining the course because IT'S ESSENTIAL for editors to first learn how to actually make and edit the ads)\nIf you're still making ads yourself, this will be very valuable to you as well.\nIf you're serious about scaling your brand, you WILL at some point have to invest into your team members to develop them further.\nWhat is ECOMTALENT AI?Note From Karlo:\nI could easily charge an extra $100-200/month for this or make it a completely separate program.\nBut I'm including it as a part of ecomtalent at no extra cost.\nWhy?\nBecause my entire goal with ecomtalent is to help you make more winning ads.\nAnd AI content creation is literally the biggest unlock for making better ads faster right now ecomtalent AI is a completely new program focused specifically on AI content creation and it's about to change how you make ads here's what you're getting access to RIGHT NOW:\nhow to generate photorealistic product images and videos out of thin air,creating realistic AI humans and making them do whatever you want,a bunch of custom Gemini Projects for building prompts,Step-by-step guide on how to make realistic AI UGC,And this is just what's inside the program right now I've already tested a ton of other stuff that's coming soon.\nI'll be updating this program every week for the next few weeks with new techniques and tools as I refine everything.\nAgain you can use code EVOLVE10 for 10% OFF (It's $90/month)\nLearn More:\nhttps://whop.com/ecomtalent/\n\nPurchase It Directly: Use Code EVOLVE10 for 10% OFF \nhttps://whop.com/checkout/plan_4ZrwR4PmBsVsx?d2c=true&a=sales0387",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s8-l20.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l20.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "3706ef75714546f7a373c760820cc608",
+              "title": "💥 Action Item: Edit Your Video Ad/Join ecomtalent",
+              "order": 21,
+              "description": "Learn How To Edit Like The Top 1% + Make Enough Money to Hire From eCom Talent Later On.Use Code EVOLVE10 for 10% OFF (It's $90/month)\nhttps://whop.com/checkout/plan_4ZrwR4PmBsVsx?d2c=true&a=sales0387\n\nOther Editing Methods + SourcesHow Coach Mike Edits Videos\nhttps://www.skool.com/origins/classroom/28df2df0?md=5592f671bcd74f049871859cc640ee45\nWhere To Get Content:\nGridbank --> $250/month paid quarterly + fastest method to get any generic clip\nInsense --> $500/month paid quarterly + (UGC method 100% authentic + potential brand ambassador for filming in the future)  --> Save $100 with EASYA100\nArcads --> $99/month paid monthly + this is something I don't really endorse.  but my perspective on it is changing, and if you are using it for B-roll purposes, then you're fine if you ask me.\nFilm/Source Yourself  --> This one cost $0. You can simply film the visuals yourself or you can hunt down creators on IG or. TikTok, get in contact, and ask them to film clips/videos for you.\nSource yourself --> You can source from the internet from content creators with less than 5k followers. DO NOT RIP the video; you simply \"rip\" their clips. That said, this has copyright issues. Creators will message you asking for payment and compensation to use their content if they see your ad, and you can get banned.  I was hesitant to add this in here, but this is something that people do. If you ask me, it's better than ripping, but still not that great.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s8-l21.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "6448949b48834e9caba70395309c65a0",
+          "title": "🛡️ How To Set Up FB Assets",
+          "order": 9,
+          "lessons": [
+            {
+              "id": "f328bc37c4d446699c52e61b687c4893",
+              "title": "FB Asset Structure to Prevent Getting Rekt",
+              "order": 1,
+              "description": "The following videos cover how to set up and warm up these assets to not get banned.\n\nFor your FB pixel, there's no need to warm it up.",
+              "duration": "4:24",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "95d5fe81793041219fcfae118c38f2b0",
+              "title": "Set Up & Warm Up Your FB Profile",
+              "order": 2,
+              "description": "\"Warm it up\" via engaging and posting like the video shows.\n\nThis is for your personal FB profiles.",
+              "duration": "0:41",
+              "videoFile": "videos/origins-program-0-100k-mo-s9-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "702270c4214941629f71083ad8cc75f9",
+              "title": "Set Up & Warm Up Your FB Page",
+              "order": 3,
+              "description": "Create your FB page on the profile level instead and \"Warm it up\" via engaging and posting like the video shows",
+              "duration": "4:36",
+              "videoFile": "videos/origins-program-0-100k-mo-s9-l3.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "172b132523de42fa96f041adfe91cb8b",
+              "title": "Create your Business Manager",
+              "order": 4,
+              "description": "No video for this, it's pretty straight forward just go to business.facebook.com on your real FB profile, and select the create account option.\n\nThe name and options you choose when setting up the Business Manager doesn't matter. After creating the Business Manager you can leave it as is until the next module",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "3b3821effc9648aa90b25bf138533159",
+              "title": "(Optional) Verify your Business Manager",
+              "order": 5,
+              "description": "",
+              "duration": "4:54",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "007799d9eb934ae18b7c1387733be458",
+              "title": "Set Up & Warm Up Your FB Ad Account",
+              "order": 6,
+              "description": "Checklist:\n\n1) Set up payment method through the Business Manager level\n\n2) Create your ad account in the timezone you intend to sell to\n\n3) Warm up the ad account via launching a page like campaign at $5/day for 3 days ($15 total).\n\n4) Launch 1 ad with nature landscape + quote to start. After approval duplicate it 4 times (5 ads total), then keep doubling the # of ads until you reach 50 ads approved.\n\n5) After 3 days and 50 ads approved, you can start to run your sales campaign as normal.",
+              "duration": "11:26",
+              "videoFile": "videos/origins-program-0-100k-mo-s9-l6.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "bacbc5ec5bc64aa0adb066333628a664",
+              "title": "Set Up FB Pixel/Dataset",
+              "order": 7,
+              "description": "We prefer using the default Shopify Meta integration rather than 3rd party tools like Wetracked",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s9-l7.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "148dbf1f55ad4055b42c3aa417b089fe",
+              "title": "Putting The FB Asset Structure Together",
+              "order": 8,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s9-l8.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s9-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "1fe3894126d64b31a689f1a27e0fac9a",
+          "title": "👨‍💻 How To Run Ads",
+          "order": 10,
+          "lessons": [
+            {
+              "id": "28f5f7ebad434a96bffd08f1fff926a4",
+              "title": "Overview of media buying section",
+              "order": 1,
+              "description": "This video will help you understand the sections below",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s10-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "7aa83fe6797948549f173b0d0bb0f2ae",
+              "title": "(Andromeda) Why you need to think way bigger",
+              "order": 2,
+              "description": "This is going to help you understand WHAT you need to focus on and CHANGE your mindset from \"media buying focused\" to \"ad creative + offer focused\"",
+              "duration": "16:10",
+              "videoFile": "videos/origins-program-0-100k-mo-s10-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "7124c84f97ea40f8a9d720556022440a",
+              "title": "Full YouTube media buying strategy",
+              "order": 3,
+              "description": "⚠ WARNING DO NOT TURN OFF YOUR EXISTING ADS IF THEY ARE WORKING. THE DUMBEST THING YOU CAN DO IS TURN OFF ADS THAT ARE WORKING. IF YOUR OTHER CAMPAIGNS ARE WORKING - LEAVE THEM ON - IF YOU TURN THEM OFF AND YOU LOSE MONEY... THAT IS ON YOU.\n\nFAQ:\nHow many creative ad sets can you launch at a time?\nIf you're only spending few hundred a day, I recommend keeping it to 5 ad sets (including champions ad set, if it has ads inside) at a time so budget can be distributed efficiently. Focus more on intent of the ads instead of throwing things at the wall.You can launch all 5 ad sets in the same day if you wishIf you want the exact calculation on how to figure out the max number of creatives to test per week:\nExample #1 - Budget $100/day\nTotal Budget (example $100/day)\nTarget CPA (Example $20)\nTotal Ads = Budget/TCPA\n$100/$20 = 5\nSo the maximum amount of concepts is 5, considering 100% of your budget is testing.If you're spending a few thousand a day you can definitely have more ad sets due to budget and CPADo we set min/max spend limits for this campaign method?\nNo, we tested it and it didn't help.How long do you test creatives for?\nWe recommend testing creatives for a minimum of 3 days. However, we now leave them testing 7 days. If they don't do well after 7 days (not much spending or missing KPI), we will then turn them off. If you want to test ads longer, you can. But we usually don't recommend leaving ads on for longer than 14 days.How do you know if a creative ad set is a winner (Covered in \"When To Leave a 3:2:2 Running\" video below)?\nIf it gets majority of spend at KPI like shown in the video. Besides that if you're still not sure, the question you should ask is \"Did my overall campaign performance improve?\". If your overall campaign ROAS didn't improve, it's not a winner.When do you turn off creatives/ad sets (Covered in \"When To Turn Off A 3:2:2\" video below)?\nWith this method we are only turning off at the ad set level not ad level.If the ad set is still not getting much spend after 7 days, and ROAS is not good we will turn off. If ROAS is good you may leave it running if you have no other creatives in queue.If the ad set took majority of spend within the first 3 days, performance is not good and overall campaign performance went down, we will turn off. But we will do learnings on the ad because something about it got a lot of engagement, so make it more conversion driven. Try to give it 2-3 days to test, it may not convert that well 1st day but 2nd or 3rd day pick up.No we don't turn off ads that were doing well but suddenly tanked, zoom out look at averages insteadWhat's the minimum budget to launch this?\nMinimum I would start this campaign at is $100/dayWhat if I don't have any past winners to put in the champions ad set or it's a new brand\nYou can set up the champions ad set still just don't launch any ads inside there until you have a proven winner you can drop inside.Can you mix images and videos in this same campaign?\nYes, that is fine but keep them separate ad sets. 1 concept should be 1 ad set, so 1 image concept with 3 variations.",
+              "duration": "1:24:05",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "937ab139ce2d4ba58c1178c51b8258ac",
+              "title": "Extra FAQ for Product Testing",
+              "order": 4,
+              "description": "1) Is there a special campaign you use for product testing?\nNo, it's still the same broad 1 CBO campaign as shown in the video above\n2) How long do you test a product for before moving on?\nThe answer to this depends on your skill level. If you're a complete beginner, it's much better to test a product for 3 days, and if there's no traction (your goal is to get something to breakeven) then you can move on to the next product.\nThis way, you take more \"Medium intent\" swings rather than going high intent and low volume. At the beginning stages, you need volume, because you don't know what good and bad looks like yet. You will build up your skills faster this way.\nIf you try to make everything perfect before launching, it takes too much time, and the extra time you spent could be trash too, since you don't know what good and bad looks like.\nIf you're more experienced and trying to start a new E-Commerce brand now, you can test it for 1-2 weeks while continually adding new ads to test. Since we know you can make any product work, it might just take 1 winning ad in that period to turn things around.\n3) Should I touch the ads or kill products early based on the metrics?\n\nPeople will tell you they kill based on CTR, CPC, cost per add to cart, etc\nI don't really care about any of that. All I care about is spend and ROAS. Because if you have an ad that gets only $0.01 spend but has a high CTR, it's still a bad ad.\nThe goal is to have your product break even during the initial test. If it's at least breakeven,n it means you can invest in improving things to make it profitable and scale now.\nContinue testing for the 3 days and see if the product has traction or not; don't need to turn off any ads until then.",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "f10bfa3062cd4d9db49073440b62f9e2",
+              "title": "How to set ROAS targets for scaling",
+              "order": 5,
+              "description": "Link To Calculator:\nhttps://www.easyamedia.com/profit-calculator\n\nREMINDER\nThat calculator can be glitchy. So if you're having issues, make sure you just remove the numbers and type them back in. And if you have any empty spaces, make sure you put a zero. \n\nIf you message me saying the calculator is broken, I will tell you to come back and watch the video again.\ntldr;\nTake your breakeven ROAS and add \"1\" to it.\nExample:\nB/E ROAS = 1.6 --> Target ROAS = 2.6",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s10-l5.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "a23ae610d0cd4f489f7a2aebbea00d9d",
+              "title": "How to scale your account (up & down)",
+              "order": 6,
+              "description": "How to scale the budget up\nHow to scale the budget down",
+              "duration": "30:31",
+              "videoFile": "videos/origins-program-0-100k-mo-s10-l6.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "f2501941167d4ca0a7c5d19762456922",
+              "title": "How to determine minimum daily spend",
+              "order": 7,
+              "description": "If you're spending above $500 per day, you can ignore this\nIf you are not, the minimum daily spend is WHATEVER you're comfortable spending per day, no matter WHAT.\n\nIdeally, we recommend a minimum of $50-$100 per day\n\nYou can be less, you can be more, but $100 per day is always a great place to start to give the machine data.\nJust make sure you have the budget to test for 1-2+ months.",
+              "duration": "1:46",
+              "videoFile": "",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "81c3ca01647f45809b431c68d9f60da2",
+              "title": "Why bad ads get spend",
+              "order": 8,
+              "description": "How to gauge performance, when to turn ads off, how to decide if you should turn off high spending, low KPI ads.",
+              "duration": "27:56",
+              "videoFile": "videos/origins-program-0-100k-mo-s10-l8.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s10-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "4f59a4b4b6a341af9d72d6b354def34d",
+          "title": "🧠 How To Do Learnings",
+          "order": 11,
+          "lessons": [
+            {
+              "id": "47fde70594bd40638cc4434ad278fe43",
+              "title": "How to review losing ads",
+              "order": 1,
+              "description": "Learnings Document (OPTIONAL)\nhttps://docs.google.com/document/d/1godfds2UF87bF3NhAWc3VlhuEuVaDAA3Bbvm4TUvjAw/edit?usp=sharing\nRemember always to add your learnings into the creative roadmap.",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s11-l1.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s11-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "f5932eb1a1f64bcdb42aaa5d3eafcca8",
+              "title": "How to apply learnings to make new ads",
+              "order": 2,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s11-l2.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s11-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "f4f05d0b8d85453faec973b8daf8d6f5",
+              "title": "How to review winning ads (even if you have 0)",
+              "order": 3,
+              "description": "Winning Ads Doc I Reviewed:\nhttps://www.canva.com/design/DAG4DZrWP5M/19YXTsmzNXU2PDrM3gn-Og/edit?utm_content=DAG4DZrWP5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s11-l3.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s11-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "1c39a25dbd17468aa4daf419e8ed86f1",
+              "title": "🆕 How to pull ideas & frameworks from ads",
+              "order": 4,
+              "description": "Winning Ads Doc I Reviewed:\nhttps://www.canva.com/design/DAG4DZrWP5M/19YXTsmzNXU2PDrM3gn-Og/edit?utm_content=DAG4DZrWP5M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s11-l4.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s11-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "4a3ea9fa11364b0a96a41490137d8ed7",
+              "title": "How to complete feedback loops (12 questions)",
+              "order": 5,
+              "description": "The Cheat Sheet:Questions to ask yourself before submitting your brief for video ads\nDoes the first 1-2 seconds of this ad hook the RIGHT user in & KEEP them hooked in?Is this a video that your potential customers would want to see?Does the copywriting create a clear image / visual in the user's mind?Does this video feel native to the platform?Does this video contain a label for who the type of person is?Would this video make someone smile or laugh?Is the video relatable?Does this video actually look like an ad?Gut check - does this video feel authentic?What learnings of previous winning ads have we applied to this ad?Does the ad educate the user in a creative way on how to achieve their core desire?Does this video tell a story your ideal customer would find interesting?Have you applied escalation to exaggerate your claim in a clear and relatable way?Does this ad separate your brand from the competition?",
+              "duration": "",
+              "videoFile": "videos/origins-program-0-100k-mo-s11-l5.mp4",
+              "thumbnail": "thumbnails/origins-program-0-100k-mo-s11-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "6dd7def286494f2dbe043d6dd9b86835",
+      "title": "$0-$100k/Month Full Masterclass",
+      "description": "Live Webinar of how to scale from $0-$100k/month",
+      "coverImage": "thumbnails/program-4-cover.jpg",
+      "order": 4,
+      "sections": []
+    },
+    {
+      "id": "0e343cad9d2148069343a8205bca94aa",
+      "title": "Team Building, Systems, Hiring - Mastermind Record",
+      "description": "This mastermind recording covers Team Building and Hiring, Incentives and Compensation, Content Creator and Affiliate Strategies",
+      "coverImage": "thumbnails/program-5-cover.jpg",
+      "order": 5,
+      "sections": []
+    },
+    {
+      "id": "833eb241467a412da8ef4cff3693b395",
+      "title": "$100k/Day Podcast",
+      "description": "Full uncut version of Spencer & Shaun discussing what it takes to hit $100k/day",
+      "coverImage": "thumbnails/program-6-cover.jpg",
+      "order": 6,
+      "sections": []
+    },
+    {
+      "id": "d989aff367e2413093eb3fffc1960ba5",
+      "title": "Evolve - Archive",
+      "description": "Outdated Evolve Modules (The Evolve graveyard)",
+      "coverImage": "thumbnails/program-7-cover.jpg",
+      "order": 7,
+      "sections": [
+        {
+          "id": "d1fe069be5c74eeaab9fb0255247e6d7",
+          "title": "✍🏻 How Shaun Would Scale X Brand",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "841cac97a0dd474fa6a39096ab399121",
+              "title": "Health - How I'd Scale Age Relief To $1M/mth",
+              "order": 1,
+              "description": "",
+              "duration": "3:48",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s1-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "b0c8e14af7464f598b33c18e97992914",
+              "title": "Health - How I'd Scale Sollume To $1M/mth",
+              "order": 2,
+              "description": "",
+              "duration": "4:20",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s1-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "46227c1a22f44ef49b9b971dcbc80e87",
+              "title": "Luxury Fashion - How I'd Scale Grams28 To $1M/mth",
+              "order": 3,
+              "description": "",
+              "duration": "9:25",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s1-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "902b6ee8d1d54197afd4f0e51dc56902",
+              "title": "Info - How I'd Scale Getspeakio To $1M/mth",
+              "order": 4,
+              "description": "",
+              "duration": "7:33",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s1-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "0d7cfd7fc53140d3bb5bb8313c162390",
+              "title": "Cosmetics - How I'd Scale Kobee's To $1M/mth",
+              "order": 5,
+              "description": "",
+              "duration": "10:40",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s1-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "5fdfa53ad1fc46a0aae0c94746485a87",
+              "title": "Supplement - How I'd Scale Neptune To $300k/mth",
+              "order": 6,
+              "description": "",
+              "duration": "7:07",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s1-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "092651e332cd4fb4b6867701ffa1272f",
+          "title": "🏃‍♂️ How To Run The Ads (Old)",
+          "order": 2,
+          "lessons": [
+            {
+              "id": "818219ae1efd4c9aa3dcb9f386c1e9e0",
+              "title": "Why You Should Never Turn Off Winning Ads",
+              "order": 1,
+              "description": "",
+              "duration": "9:52",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s2-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "b7deff15e2a64a40b9d0ca21aece6ba6",
+              "title": "How to Determine Minimum Daily Spend",
+              "order": 2,
+              "description": "If you're spending above $500 per day, you can ignore this\nIf you are not, the minimum daily spend is WHATEVER you're comfortable spending per day, no matter WHAT.\n\nIdeally, we recommend a minimum of $50-$100 per day\n\nYou can be less, but $100 per day is always a great place to start to give the machine data. Just make sure you have the budget to test for 1-2+ months",
+              "duration": "1:46",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s2-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "439713e2d127484680b2667e3c73eafc",
+              "title": "How to set rules on promo campaign",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s2-l3.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s2-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "ee5994f7a3ec449b9688d74b642cf321",
+              "title": "Why The 3:2:2 Method Works Better Than ABOs",
+              "order": 4,
+              "description": "Debunking common beliefs of why our ad method doesn't work and why you should trust the system instead of force spending.",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s2-l4.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s2-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "48550432a42b49aebb27bfaf66006985",
+              "title": "Full Media Buying Strategy Template (2025)",
+              "order": 5,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s2-l5.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s2-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "5a85580b99cc4d1487b09f845cf412e9",
+          "title": "📝 How To Make Ads (Old)",
+          "order": 3,
+          "lessons": [
+            {
+              "id": "ddf33e37eeb641f3969087b4e7e0294f",
+              "title": "How To Add Desires & Features+Benefits",
+              "order": 1,
+              "description": "IMPORTANT NOTICE\nRemember this is for the growth guide 1.0\nIf you have the 2.0 growth guide, this does not apply, and you can skip this section.",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s3-l1.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s3-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "0127ca009a44470fa1d05071148128cd",
+              "title": "How To Add Awareness Levels",
+              "order": 2,
+              "description": "IMPORTANT NOTICE\nRemember, this is for the Growth Guide 1.0\nIf you have the Growth Guide 2.0, this does not apply, and you can skip this section.",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s3-l2.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s3-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "de2af4c0369a455192b7843856ba27c4",
+              "title": "How To Add Top Creators",
+              "order": 3,
+              "description": "IMPORTANT NOTICE\nRemember, this is for the Growth Guide 1.0\nIf you have the Growth Guide 2.0, this does not apply, and you can skip this section.",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s3-l3.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s3-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "18ea69eeb1474c56b1c900ed24189df1",
+              "title": "The Evolve Growth Guide (Overview)",
+              "order": 4,
+              "description": "⚠️ IMPORTANT: This is a must-watch video so you fully understand what is going on and what lies ahead.\nAs we continue to optimize the Evolve program, you need to be aware of what the two growth guides are below, so you can understand what is happening.\nEither way, this growth guide is the #1 system that has helped 19+ brands in Evolve Scale to $100k/day. \n\nSo take it seriously. And let's level up your creative strategy.\nOption 1: Original Growth Guide Method 1.0:\nhttps://docs.google.com/spreadsheets/d/1Kux0D2Y1FNvTvyP-HLfG0DacOf2bItHIhqTuEVSjxCI/edit?usp=sharing\nOption 2: NEW Growth Guide Method 2.0 (congruent with avatar training)\nhttps://docs.google.com/spreadsheets/d/1Njj-OhV-qhzdKWeMylePwxgCwEqYTHqjAzO8ME8ijoM/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s3-l4.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s3-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "82e0471fa3c94c1d984555810ae094d1",
+              "title": "Filling Out The Evolve Growth Guide 2.0",
+              "order": 5,
+              "description": "🚨 REMINDER: This is for the Growth Guide 2.0 that is congruent with the How to Create Avatars training.\nOption 2: NEW Growth Guide Method 2.0 (congruent with avatar training)\nhttps://docs.google.com/spreadsheets/d/1Njj-OhV-qhzdKWeMylePwxgCwEqYTHqjAzO8ME8ijoM/edit?usp=sharing\nIf you have duplicated the Growth Guide 1.0 version, you can find the old modules below on how to add the specific columns, as well as fill out the remainder of the roadmap linked here",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s3-l5.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s3-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "3150e8b30e0e4439912fce89d2e35537",
+              "title": "How To Fill Out The Creative Roadmap 1.0 - Part 1",
+              "order": 6,
+              "description": "IMPORTANT NOTICE\nRemember, this is for the Growth Guide 1.0\nIf you have the Growth Guide 2.0, this does not apply, and you can skip this section.",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s3-l6.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s3-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "43cffd88b97046d18ab8621053d8f49f",
+              "title": "How To Fill Out The Creative Roadmap - Part 2",
+              "order": 7,
+              "description": "IMPORTANT NOTICE\nRemember, this is for the Growth Guide 1.0\nIf you have the Growth Guide 2.0, this does not apply, and you can skip this section.",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s3-l7.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s3-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "7b8e32a52129486abd3fa5e2ce118761",
+              "title": "How To Add Avatars - Part 2",
+              "order": 8,
+              "description": "NOTE* Make sure your reviews do not exceed over 500 reviews as it will jam up Claude AI.\nhttps://docs.google.com/document/d/1atdms-kNsm9zqmAooZS8d8KfqEr307pjwt8phjY4eGU/edit?usp=sharing",
+              "duration": "8:01",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "b10849cb392e408bbe8a7be4d8c11512",
+              "title": "Additional Resources For Editors",
+              "order": 9,
+              "description": "Video Editing Inspo: https://app.milanote.com/1QIvii1eR1hg9m?p=wDv1vmDwhPi",
+              "duration": "1:25",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "02dabc5ee756432f9fc27476b4a84ba7",
+              "title": "How To Never Run Out Of Ad Ideas",
+              "order": 10,
+              "description": "Ad Flow: https://www.figma.com/board/2b4SB2fQNWk4KU8bosPy92/Evolve---Protocols?node-id=0-1&t=Yj0L9544tvAiAtrB-1",
+              "duration": "9:58",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l10.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "9fcfbe3aac72441697e04835bc2b381f",
+              "title": "How To Add Desires & Features+Benefits",
+              "order": 11,
+              "description": "The Growth Guide Sheet (you should already have a copy)\nhttps://docs.google.com/spreadsheets/d/1Kux0D2Y1FNvTvyP-HLfG0DacOf2bItHIhqTuEVSjxCI/edit?usp=sharing",
+              "duration": "5:59",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l11.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "cf40a1332e614ad3965463e4581b0ac1",
+              "title": "How To Add Awareness Levels",
+              "order": 12,
+              "description": "NOTE* This is pretty advanced. If you still do NOT understand Market Awareness levels, you can come back to this module.",
+              "duration": "4:42",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l12.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "5ffd98eb4cd0493ab42ae97a92cbe94d",
+              "title": "How To Add Top Creators",
+              "order": 13,
+              "description": "",
+              "duration": "2:41",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l13.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "1b7d62b8b9364ffe86dc2f6a30c2e9e0",
+              "title": "How To Fill Out The Creative Roadmap - Part 1",
+              "order": 14,
+              "description": "Growth Guide Sheet:\nhttps://docs.google.com/spreadsheets/d/1Kux0D2Y1FNvTvyP-HLfG0DacOf2bItHIhqTuEVSjxCI/edit?usp=sharing",
+              "duration": "14:56",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l14.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "e55186dd4b334078aaa89510dd45c5e3",
+              "title": "How To Fill Out The Creative Roadmap - Part 2",
+              "order": 15,
+              "description": "TAKE BIGGER SWINGS!\n\nMAKE YOUR ADS CONGRUENT\n\n\"Super-lative\" is also the cool way to say it - Spencer",
+              "duration": "13:53",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l15.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "47fa80100b114b72888a1a2ee19fabdd",
+              "title": "How To Set Up Ad Requests With Google Docs",
+              "order": 16,
+              "description": "Google Doc - Brief Templates:\nhttps://drive.google.com/drive/folders/1d9TQTD3BfC3j9ZXoI3dO-Er6vOhfnR8Z?usp=sharing\nAd Brief Templates: \nhttps://drive.google.com/drive/folders/1d9TQTD3BfC3j9ZXoI3dO-Er6vOhfnR8Z\n\nREMINDER:\n- Take BIGGER swings on Ideations\n- Focus LESS on Imitations\n- AND don't just iterate, variations are essential. You will learn this later in the \"How To Analyze\" section.\nhttps://www.skool.com/evolve-8484/classroom/fc758841?md=5cb8602e34aa4112a44756cf5831a918",
+              "duration": "5:06",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l16.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "590c5eabfda245f49c057e2c4bd22b6c",
+              "title": "How To Write Ad Briefs For Editors",
+              "order": 17,
+              "description": "Google Doc - Brief Templates:\nhttps://drive.google.com/drive/folders/1d9TQTD3BfC3j9ZXoI3dO-Er6vOhfnR8Z?usp=sharing",
+              "duration": "9:42",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l17.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "17090deb8bb4497191671c2297e42626",
+              "title": "How To Write Ad Briefs With Milanote",
+              "order": 18,
+              "description": "Milanote Website:\nhttps://milanote.com/register\n\nMilanote Video Template:\nhttps://app.milanote.com/1TLdVw1oyZWQbK?p=cThCi4vfdPQ\n\nMilanote Static Template:\nhttps://app.milanote.com/1TBqEN14Ypse5z?p=MFLIMCWHIM5",
+              "duration": "5:22",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l18.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "f671d20f3e1044f09d19d3e09ce3ab06",
+              "title": "How To Send Briefs To Visual Editors",
+              "order": 19,
+              "description": "",
+              "duration": "8:19",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s3-l19.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "21cc56abff6a4fbfa653c35de3f449ff",
+          "title": "📊 How To Analyze & Scale (Old)",
+          "order": 4,
+          "lessons": [
+            {
+              "id": "cfe4b2d7b04c49bcb3c9a65f867b8c0d",
+              "title": "How To Review Your Ads (Old Way)",
+              "order": 1,
+              "description": "",
+              "duration": "17:15",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s4-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "ee9039736f114d07bf123cd33a854a07",
+          "title": "🕺 How To Get UGC (Generation)",
+          "order": 5,
+          "lessons": [
+            {
+              "id": "c2a3ce7495d34ea2bb8577015a7de019",
+              "title": "How To Get Studio Content For Ads",
+              "order": 1,
+              "description": "The #1 Thing You Can do Is Look up local photographers NEAR ME.\nThe #2 option you have is https://www.upwork.com/",
+              "duration": "7:13",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s5-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            }
+          ]
+        },
+        {
+          "id": "eacc5782621246f2877f4834c41bc286",
+          "title": "👣 Random Evovle Modules",
+          "order": 6,
+          "lessons": [
+            {
+              "id": "c0d05c781d724c43a95b82392ade6e11",
+              "title": "✊ Productivity: Overview Module",
+              "order": 1,
+              "description": "",
+              "duration": "1:30",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "728b0c582e02408fa327b92003b53c23",
+              "title": "✊ Productivity: How To Use The Daily Tracker",
+              "order": 2,
+              "description": "Daily Tracker:\nhttps://docs.google.com/spreadsheets/d/1rWnYNdY1zgSr3GpWLB9J5bFYss_TbiDwb5TmX5qaJEs/edit?usp=sharing",
+              "duration": "5:35",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "f2f9d817388b40dd8b25d9574e27b7de",
+              "title": "✊ Productivity: Buy a White Board",
+              "order": 3,
+              "description": "Amazon.com\nOr\nYour Local Office Store",
+              "duration": "5:06",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "649dc38e568c4ab3a6b06a9592bb5cd6",
+              "title": "⚙️ Setup  - How To Verify Meta Events",
+              "order": 4,
+              "description": "Once you verify your events are not duplicating, you can mark this video as done.\n✔ Test Events Completed",
+              "duration": "1:49",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "67643c28ea6b416f90c763026f7ab711",
+              "title": "⚙️ Setup - How To Verify Your Conversion API",
+              "order": 5,
+              "description": "Once you verify your Conversion API is connected, you can mark this video as done.\n✔ Conversion API Verified",
+              "duration": "1:29",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "61b94e7577a64d48a7b0508ff0a3fa69",
+              "title": "⚙️ Setup - How To Verify Your Business Manager",
+              "order": 6,
+              "description": "If your business manager is already verified, you can mark this video as done.\n✔ Business Manager Verified",
+              "duration": "4:54",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "6a2f2fc6a3104b84a67fe807b584f65c",
+              "title": "How To Use Offers",
+              "order": 7,
+              "description": "Slides:\nhttps://docs.google.com/presentation/d/1ypy0lp6A29eG6YpISf0nJ_WLa-k-2Z0g9nUv2C_-MVs/edit?usp=sharing",
+              "duration": "11:40",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "461b80f5bd874d23bb87c080b3956ecb",
+              "title": "How To Claim Ad Spend Refunds For Overspending",
+              "order": 8,
+              "description": "Link to document: https://docs.google.com/document/d/1JEzYHeUXGulOMALHXwGUqFOKNhCvJKymGZERW7o_cC0/edit?usp=sharing",
+              "duration": "11:25",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "7ca5b8e92ad948339eb4a60883b7b0cc",
+              "title": "How To Translate Text Accurately",
+              "order": 9,
+              "description": "This is the prompt:\n\nTranslate the following text to natural and smooth (LANGUAGE), but being very careful the False friends, Word order, Definite and indefinite articles, Gendered nouns, Idiomatic expressions, Compound words, Cultural nuances, and Conjugation and tense through the translation to our target language while trying to stay true to the tone and style of the original text:",
+              "duration": "0:51",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s6-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "bd4b6787b4bd4355b03f46002d714d0d",
+              "title": "✊ Productivity: Expect this to be hard",
+              "order": 10,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s6-l10.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s6-l10.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "e802d97fc61e4e2cb285ef0369024753",
+          "title": "💰 Break Down Winning Ads (Shaun)",
+          "order": 7,
+          "lessons": [
+            {
+              "id": "3bf74486499d462e903a763055349d6a",
+              "title": "Footwear - Creative Strategy Masterclass #1",
+              "order": 1,
+              "description": "",
+              "duration": "9:24",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-archive-s7-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "6ad2da2bedc742398263adecb57688e1",
+              "title": "Winning Humidifier Ad V2 - Learnings (Shaun)",
+              "order": 2,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s7-l2.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s7-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "32073c30f6154031a03fcdf9b15afab6",
+              "title": "Winning Hair Dryer Ad - Learnings (Shaun)",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/evolve-archive-s7-l3.mp4",
+              "thumbnail": "thumbnails/evolve-archive-s7-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bb844634e6644fb890f6ec2aa09ed297",
+      "title": "💰 Evolve Q4",
+      "description": "Modules already included in the Evolve program. Everything you need for Q4 Prep.",
+      "coverImage": "thumbnails/program-8-cover.jpg",
+      "order": 8,
+      "sections": [
+        {
+          "id": "00398d80d2d240cf9f3601fdb4c03a23",
+          "title": "📋 2025 Evolve Strategy",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "56621002c6fb469093f1eef399537ae2",
+              "title": "The Evolve Q4 Masterclass (2025)",
+              "order": 1,
+              "description": "The Q4 Document:\nhttps://docs.google.com/document/d/1dr7Bm19qsrf0dZ85oyKJPvhnED8yqE_VzfK7O8va_3w/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/evolve-q4-s1-l1.mp4",
+              "thumbnail": "thumbnails/evolve-q4-s1-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "32cfc063820d44be87b0d3a9f1f6dfbe",
+              "title": "The Evolve Q4 Creative Blueprint (2025)",
+              "order": 2,
+              "description": "The Q4 Winning BFCM Ads Doc\nhttps://www.canva.com/design/DAG0ZpY19Js/7h1qTQRIb4DMtAbKDZOvLQ/edit?utm_content=DAG0ZpY19Js&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+              "duration": "",
+              "videoFile": "videos/evolve-q4-s1-l2.mp4",
+              "thumbnail": "thumbnails/evolve-q4-s1-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "9d50c002eeb5433cbeebf67985f464dc",
+              "title": "Q4 - Ad Creative Templates",
+              "order": 3,
+              "description": "Main Template Slide:\nhttps://www.canva.com/design/DAG1527NkAg/UJrEcuA_opR5Zx7RFoKGiw/edit?utm_content=DAG1527NkAg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton\n\nTemplate Edits:\n https://www.canva.com/design/DAG1596F36k/wVkE-jIK46FgUzMh1lWW4w/edit?utm_content=DAG1596F36k&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-q4-s1-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "afc7d1bd4a53445391766122e17e0838",
+              "title": "How To Setup Promo Campaigns",
+              "order": 4,
+              "description": "We only run this type of campaigns during sale periods. Mother's Day, BFCM, etc.\n1 CBO campaign\n3 Ad sets total\n\n1 Broad ad set\n1 WARM60 ad set - FB Engagers, IG Engagers, 95% Video Viewers over the last 60 days\n1 HOT90 ad set - Website visitors, view content, add to cart, initiate checkout over last 90 days\n\nFor the ads just put sale banners over existing best ads, and introduce some simple product image ads that mention the sale.\n\nKeep it simple.\n\nWe usually don't do retargeting but the only time we do is during a sale. Having 3 ad sets like this in a CBO means FB will spend on wherever it thinks will do the best.",
+              "duration": "8:17",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-q4-s1-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "10d88571c43b4a8481deabc8b44ebab8",
+              "title": "How To Create Rules For Promo Campaigns",
+              "order": 5,
+              "description": "",
+              "duration": "3:05",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-q4-s1-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "18f80c27bea9476295eb4d266b8aa2c7",
+              "title": "(Advanced) Surf Scaling Method",
+              "order": 6,
+              "description": "*We mainly surf scale during promo periods only but sometimes we do so for evergreen campaigns as well. I ONLY recommend surf scaling evergreen if you're already spending few thousand a day on that 1 campaign.\n\nSurf Scaling Sheet:\nhttps://docs.google.com/spreadsheets/d/1bzzLKMwLD82dZYDi5cRCs38PoCzKFVtWUL8C3KmrKnY/edit?usp=sharing",
+              "duration": "8:32",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-q4-s1-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "e8f3acb9f8f443eeaa54dff112f978f9",
+              "title": "V.I.P Lead Gen Strategy + Calculator",
+              "order": 7,
+              "description": "Please NOTE: \nThis is ONLY recommended for brands that have very large monthly recurring revenue or a high returning customer list (30% or higher)\n\nOR if you have very unique brand positioning, VIP campaigns may also work well for you.  \n\n👍 Rule of thumb: If you don't have a large % organic sales (true organic word of mouth) or a returning customer rate above 30% this is likely not for you\n\nVIP Calculator:\nhttps://docs.google.com/spreadsheets/d/1BBL42gM1AzA8kS3t4aEFympffAOb97TXYM2Es6vxbnU/edit?usp=sharing",
+              "duration": "8:13",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-q4-s1-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "b0d9a5403d4a4a58aaa8ef3e8a1eaf3f",
+              "title": "Q4 FB Asset Backup - By AdRevival",
+              "order": 8,
+              "description": "https://www.notion.so/AdRevival-s-Q4-Guide-Evolve-Exclusive-289c329efb4180a19e9bcd40b188a5af",
+              "duration": "",
+              "videoFile": "",
+              "thumbnail": "thumbnails/evolve-q4-s1-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": false
+            },
+            {
+              "id": "01ec600cf7e54592a54b7dc830d64431",
+              "title": "Q4 Email Marketing Strategy",
+              "order": 9,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/evolve-q4-s1-l9.mp4",
+              "thumbnail": "thumbnails/evolve-q4-s1-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
