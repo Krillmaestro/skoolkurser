@@ -1,103 +1,102 @@
 @import "tailwindcss";
 
 @theme inline {
-  /* Skool exact colors — extracted from live site */
+  /* Skool exact colors — from screenshots */
   --color-background: #f0f2f5;
-  --color-foreground: #191919;
+  --color-foreground: #111827;
   --color-surface: #ffffff;
-  --color-surface-hover: #f7f7f7;
-  --color-border: #e4e4e4;
-  --color-border-card: #dddee0;
+  --color-surface-hover: #f9fafb;
+  --color-border: #e5e7eb;
+  --color-border-card: #e5e7eb;
   --color-accent: #16a34a;
   --color-accent-hover: #15803d;
-  --color-muted: #737373;
-  --color-muted-light: #a3a3a3;
+  --color-muted: #6b7280;
+  --color-muted-light: #9ca3af;
   --color-success: #16a34a;
   --color-sidebar-bg: #ffffff;
-  --color-sidebar-active: #f3f4f6;
+  --color-sidebar-active: #ede9fe;
   --color-card-bg: #ffffff;
   --color-header-bg: #ffffff;
-  --color-progress-bg: #e5e5e5;
+  --color-progress-bg: #e5e7eb;
   --color-progress-fill: #16a34a;
   --color-progress-text: #ffffff;
-  --color-tab-active: #191919;
-  --color-tab-inactive: #737373;
-  --color-tab-border: #3b82f6;
-  --font-sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --color-tab-active: #111827;
+  --color-tab-inactive: #6b7280;
+  --font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 body {
   background: var(--color-background);
   color: var(--color-foreground);
   font-family: var(--font-sans);
+  font-size: 14px;
+  line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* Custom scrollbar — Skool style (thin, subtle) */
+/* Scrollbar */
 ::-webkit-scrollbar { width: 6px; height: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
-::-webkit-scrollbar-thumb { background: #d4d4d4; border-radius: 3px; }
-::-webkit-scrollbar-thumb:hover { background: #a3a3a3; }
+::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #9ca3af; }
 
-/* Progress bar pill style — Skool green pill with white text */
+/* Skool nav tab — bold underline on active */
+.nav-tab-active {
+  position: relative;
+  font-weight: 600 !important;
+  color: var(--color-foreground) !important;
+}
+.nav-tab-active::after {
+  content: "";
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 2px;
+  background: var(--color-foreground);
+}
+
+/* Progress pill — Skool green pill with white % text */
 .progress-pill {
   position: relative;
-  height: 22px;
-  border-radius: 11px;
+  height: 26px;
+  border-radius: 13px;
   overflow: hidden;
   background: var(--color-progress-bg);
 }
 .progress-pill-fill {
   height: 100%;
-  border-radius: 11px;
+  border-radius: 13px;
   transition: width 0.5s ease;
-  min-width: 36px;
+  min-width: 42px;
   background: var(--color-progress-fill);
 }
 .progress-pill-text {
   position: absolute;
-  left: 0;
-  top: 0;
+  left: 0; top: 0;
   height: 100%;
   display: flex;
   align-items: center;
-  padding: 0 10px;
-  font-size: 11px;
+  padding: 0 12px;
+  font-size: 12px;
   font-weight: 700;
   white-space: nowrap;
   color: var(--color-progress-text);
 }
-
-/* Skool nav tab active indicator — blue underline */
-.nav-tab-active {
-  position: relative;
-}
-.nav-tab-active::after {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  height: 2px;
-  background: var(--color-tab-border);
-  border-radius: 1px 1px 0 0;
+/* When 0%, show dark text on gray bg */
+.progress-pill-text-zero {
+  color: var(--color-muted);
 }
 
-/* Card hover lift effect */
-.card-hover {
-  transition: box-shadow 0.2s ease, transform 0.2s ease;
-}
+/* Card hover */
+.card-hover { transition: box-shadow 0.2s ease, transform 0.2s ease; }
 .card-hover:hover {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transform: translateY(-1px);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  transform: translateY(-2px);
 }
 
-/* Line clamp utility */
+/* Line clamp */
 .line-clamp-2 {
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -105,44 +104,18 @@ body {
   overflow: hidden;
 }
 
-/* Lesson list item transitions */
-.lesson-item {
-  transition: background-color 0.15s ease;
-}
-.lesson-item:hover {
-  background-color: var(--color-surface-hover);
-}
-.lesson-item.active {
-  background-color: var(--color-sidebar-active);
-}
+/* Lesson item hover */
+.lesson-item { transition: background-color 0.15s ease; }
+.lesson-item:hover { background-color: var(--color-surface-hover); }
 
-/* Sidebar section expand/collapse animation */
-.sidebar-lessons-enter {
-  animation: slideDown 0.2s ease-out;
-}
-@keyframes slideDown {
-  from {
-    opacity: 0;
-    transform: translateY(-4px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
+/* Sidebar animations */
+.sidebar-overlay { animation: fadeIn 0.2s ease-out; }
+.sidebar-slide { animation: slideRight 0.25s ease-out; }
+@keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+@keyframes slideRight { from { transform: translateX(-100%); } to { transform: translateX(0); } }
+@keyframes slideDown { from { opacity: 0; transform: translateY(-4px); } to { opacity: 1; transform: translateY(0); } }
+.sidebar-lessons-enter { animation: slideDown 0.2s ease-out; }
 
-/* Mobile sidebar overlay */
-.sidebar-overlay {
-  animation: fadeIn 0.2s ease-out;
-}
-.sidebar-slide {
-  animation: slideRight 0.25s ease-out;
-}
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
-}
-@keyframes slideRight {
-  from { transform: translateX(-100%); }
-  to { transform: translateX(0); }
-}
+/* Description links */
+.lesson-description a { color: #2563eb; text-decoration: underline; }
+.lesson-description a:hover { color: #1d4ed8; }

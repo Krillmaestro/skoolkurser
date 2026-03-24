@@ -24,55 +24,84 @@ export default function ClassroomPage() {
     return () => window.removeEventListener("progress-updated", update);
   }, []);
 
+  // Sort: programs with lessons first, empty (locked) at bottom
+  const sortedPrograms = [...course.programs].sort((a, b) => {
+    const aLessons = a.sections.reduce((acc, s) => acc + s.lessons.length, 0);
+    const bLessons = b.sections.reduce((acc, s) => acc + s.lessons.length, 0);
+    if (aLessons === 0 && bLessons > 0) return 1;
+    if (aLessons > 0 && bLessons === 0) return -1;
+    return 0;
+  });
+
+  // Find first lesson slug for a program (for direct navigation)
+  function getFirstLessonHref(programSlug: string, programId: string) {
+    const program = course.programs.find((p) => p.id === programId);
+    if (!program) return `/${programSlug}`;
+    for (const sec of program.sections) {
+      if (sec.lessons.length > 0) {
+        return `/${programSlug}/${slugify(sec.lessons[0].title)}`;
+      }
+    }
+    return `/${programSlug}`;
+  }
+
   return (
     <div className="min-h-screen bg-background">
-      {/* Top navigation bar */}
+      {/* Header — Skool style: two rows */}
       <header className="bg-header-bg border-b border-border sticky top-0 z-50">
-        <div className="max-w-[960px] mx-auto px-6">
-          <div className="flex items-center h-[52px] gap-4">
-            <span className="font-semibold text-[15px] text-foreground tracking-tight">
+        <div className="max-w-[1100px] mx-auto px-6">
+          {/* Row 1: Group name */}
+          <div className="flex items-center h-[52px] gap-3">
+            <span className="font-bold text-[17px] text-foreground">
               {course.title}
             </span>
             <CourseSwitcher />
-            <nav className="flex items-center h-full ml-auto">
-              <span className="nav-tab-active flex items-center h-full px-4 text-[14px] font-medium text-tab-active cursor-default">
-                Classroom
-              </span>
-              <span className="flex items-center h-full px-4 text-[14px] font-medium text-tab-inactive cursor-default">
-                Community
-              </span>
-              <span className="flex items-center h-full px-4 text-[14px] font-medium text-tab-inactive cursor-default">
-                Calendar
-              </span>
-              <span className="flex items-center h-full px-4 text-[14px] font-medium text-tab-inactive cursor-default">
-                Members
-              </span>
-              <span className="flex items-center h-full px-4 text-[14px] font-medium text-tab-inactive cursor-default">
-                Leaderboards
-              </span>
-              <span className="flex items-center h-full px-4 text-[14px] font-medium text-tab-inactive cursor-default">
-                About
-              </span>
-            </nav>
           </div>
+          {/* Row 2: Nav tabs */}
+          <nav className="flex items-center gap-1 -mb-px">
+            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
+              Community
+            </span>
+            <span className="nav-tab-active flex items-center px-3 pb-3 text-[14px] font-medium cursor-default">
+              Classroom
+            </span>
+            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
+              Calendar
+            </span>
+            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
+              Members
+            </span>
+            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
+              Map
+            </span>
+            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
+              Leaderboards
+            </span>
+            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
+              About
+            </span>
+          </nav>
         </div>
       </header>
 
       {/* Program card grid */}
-      <main className="max-w-[960px] mx-auto px-6 py-8">
+      <main className="max-w-[1100px] mx-auto px-6 py-8">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
-          {course.programs.map((program) => {
+          {sortedPrograms.map((program) => {
             const progress = progresses[program.id] || { completed: 0, total: 0, percentage: 0 };
             const programSlug = slugify(program.title);
+            const totalLessons = program.sections.reduce((acc, s) => acc + s.lessons.length, 0);
+            const isLocked = totalLessons === 0;
+            const href = isLocked ? "#" : getFirstLessonHref(programSlug, program.id);
 
             return (
               <Link
                 key={program.id}
-                href={`/${programSlug}`}
-                className="bg-card-bg rounded-xl border border-border-card overflow-hidden card-hover block"
+                href={href}
+                className={`bg-card-bg rounded-lg overflow-hidden card-hover block ${isLocked ? "cursor-not-allowed opacity-80" : ""}`}
               >
-                {/* Cover image — 16:9 */}
-                <div className="aspect-[16/9] bg-[#e5e5e5] relative overflow-hidden">
+                {/* Cover image */}
+                <div className="aspect-[16/9] bg-black relative overflow-hidden">
                   {program.coverImage ? (
                     <img
                       src={`/${program.coverImage}`}
@@ -80,33 +109,38 @@ export default function ClassroomPage() {
                       className="w-full h-full object-cover"
                     />
                   ) : (
-                    <div className="w-full h-full bg-[#e5e5e5] flex items-center justify-center">
-                      <svg className="w-10 h-10 text-[#c4c4c4]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                    <div className="w-full h-full bg-[#1a1a1a]" />
+                  )}
+                  {/* Lock overlay for locked programs */}
+                  {isLocked && (
+                    <div className="absolute inset-0 bg-black/50 flex flex-col items-center justify-center gap-2">
+                      <svg className="w-8 h-8 text-white/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" />
                       </svg>
+                      <span className="text-white font-semibold text-[15px]">Locked</span>
                     </div>
                   )}
                 </div>
 
                 {/* Card body */}
                 <div className="px-4 pt-3 pb-4">
-                  <h3 className="font-bold text-foreground text-[15px] leading-snug mb-0.5">
+                  <h3 className="font-bold text-foreground text-[16px] leading-snug mb-1">
                     {program.title}
                   </h3>
                   {program.description && (
-                    <p className="text-[13px] text-muted line-clamp-2 leading-[1.4] mb-3">
+                    <p className="text-[14px] text-muted line-clamp-2 leading-[1.45] mb-3">
                       {program.description}
                     </p>
                   )}
                   {!program.description && <div className="mb-3" />}
 
-                  {/* Progress pill */}
+                  {/* Progress pill — Skool style */}
                   <div className="progress-pill">
                     <div
                       className="progress-pill-fill"
-                      style={{ width: `${Math.max(progress.percentage, progress.percentage > 0 ? 12 : 0)}%` }}
+                      style={{ width: `${Math.max(progress.percentage, progress.percentage > 0 ? 15 : 0)}%` }}
                     />
-                    <div className="progress-pill-text">
+                    <div className={`progress-pill-text ${progress.percentage === 0 ? "progress-pill-text-zero" : ""}`}>
                       {progress.percentage}%
                     </div>
                   </div>
