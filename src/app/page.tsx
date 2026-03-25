@@ -83,7 +83,7 @@ export default function ClassroomPage() {
                 <div className="aspect-[16/9] bg-black relative overflow-hidden">
                   {program.coverImage ? (
                     <img
-                      src={`/${program.coverImage}`}
+                      src={program.coverImage.startsWith("http") ? program.coverImage : `/${program.coverImage}`}
                       alt={program.title}
                       className="w-full h-full object-cover"
                     />

@@ -74,8 +74,8 @@ export default function LessonPage({
             {/* Lesson title */}
             <h1 className="text-[22px] font-bold text-foreground mb-5 leading-tight">{lesson.title}</h1>
 
-            {/* Video player */}
-            {lesson.hasVideo && (
+            {/* Video player — show when video-map has an entry */}
+            {videoUrl && (
               <VideoPlayer
                 src={videoUrl}
                 lessonId={lesson.id}
