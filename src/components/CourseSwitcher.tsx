@@ -9,9 +9,6 @@ export default function CourseSwitcher() {
   const [isOpen, setIsOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
 
-  // Only show switcher when there are multiple courses
-  if (courses.length <= 1) return null;
-
   const activeCourse = courses.find((c) => c.id === activeId) || courses[0];
 
   useEffect(() => {

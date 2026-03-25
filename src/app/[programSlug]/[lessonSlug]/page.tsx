@@ -9,6 +9,7 @@ import Transcript from "@/components/Transcript";
 import ProgressTracker from "@/components/ProgressTracker";
 import Link from "next/link";
 import CourseSwitcher from "@/components/CourseSwitcher";
+import SearchBar from "@/components/SearchBar";
 
 export default function LessonPage({
   params,
@@ -45,40 +46,18 @@ export default function LessonPage({
 
   return (
     <div className="flex flex-col h-screen overflow-hidden bg-background">
-      {/* Header — same two-row Skool header as classroom */}
+      {/* Header — single row: course name + switcher + search */}
       <header className="bg-header-bg border-b border-border sticky top-0 z-50">
         <div className="px-6 lg:pl-[312px]">
-          {/* Row 1: Group name */}
           <div className="flex items-center h-[52px] gap-3 pl-10 lg:pl-0">
             <Link href="/" className="font-bold text-[17px] text-foreground hover:opacity-70 transition-opacity">
               {course.title}
             </Link>
             <CourseSwitcher />
+            <div className="ml-auto">
+              <SearchBar />
+            </div>
           </div>
-          {/* Row 2: Nav tabs */}
-          <nav className="flex items-center gap-1 -mb-px pl-10 lg:pl-0">
-            <Link href="/" className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive hover:text-foreground transition-colors">
-              Community
-            </Link>
-            <span className="nav-tab-active flex items-center px-3 pb-3 text-[14px] font-medium cursor-default">
-              Classroom
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Calendar
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Members
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Map
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Leaderboards
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              About
-            </span>
-          </nav>
         </div>
       </header>
 

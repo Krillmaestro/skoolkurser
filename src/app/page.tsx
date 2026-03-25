@@ -5,6 +5,7 @@ import Link from "next/link";
 import { getCourse, slugify } from "@/lib/course";
 import { getOverallProgress } from "@/lib/progress";
 import CourseSwitcher from "@/components/CourseSwitcher";
+import SearchBar from "@/components/SearchBar";
 
 export default function ClassroomPage() {
   const course = getCourse();
@@ -47,40 +48,18 @@ export default function ClassroomPage() {
 
   return (
     <div className="min-h-screen bg-background">
-      {/* Header — Skool style: two rows */}
+      {/* Header — single row: course name + switcher + search */}
       <header className="bg-header-bg border-b border-border sticky top-0 z-50">
         <div className="max-w-[1100px] mx-auto px-6">
-          {/* Row 1: Group name */}
           <div className="flex items-center h-[52px] gap-3">
             <span className="font-bold text-[17px] text-foreground">
               {course.title}
             </span>
             <CourseSwitcher />
+            <div className="ml-auto">
+              <SearchBar />
+            </div>
           </div>
-          {/* Row 2: Nav tabs */}
-          <nav className="flex items-center gap-1 -mb-px">
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Community
-            </span>
-            <span className="nav-tab-active flex items-center px-3 pb-3 text-[14px] font-medium cursor-default">
-              Classroom
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Calendar
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Members
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Map
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              Leaderboards
-            </span>
-            <span className="flex items-center px-3 pb-3 text-[14px] font-medium text-tab-inactive cursor-default">
-              About
-            </span>
-          </nav>
         </div>
       </header>
 
