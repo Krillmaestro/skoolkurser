@@ -6,12 +6,15 @@ export interface Lesson {
   title: string;
   order: number;
   description: string;
-  duration: string;
+  videoId: string;
+  videoLenMs: number;
   videoFile: string;
   thumbnail: string;
   transcript: string;
   completed: boolean;
-  hasVideo: boolean;
+  // Computed helpers
+  hasVideo?: boolean;
+  duration?: string;
 }
 
 export interface Section {
