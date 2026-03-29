@@ -1,5 +1,7 @@
 import defaultCourseData from "@/data/course.json";
 import defaultVideoMap from "@/data/video-map.json";
+import evolve8484CourseData from "@/data/courses/evolve-8484/course.json";
+import evolve8484VideoMap from "@/data/courses/evolve-8484/video-map.json";
 
 export interface Lesson {
   id: string;
@@ -54,7 +56,14 @@ export interface CourseEntry {
 // For now, use the default single-course data. Additional courses can be
 // loaded dynamically or imported statically.
 
-let additionalCourses: CourseEntry[] = [];
+let additionalCourses: CourseEntry[] = [
+  {
+    id: "evolve-8484",
+    title: "Evolve 8484",
+    course: evolve8484CourseData as unknown as Course,
+    videoMap: evolve8484VideoMap as Record<string, string>,
+  },
+];
 
 function getDefaultCourse(): CourseEntry {
   return {
