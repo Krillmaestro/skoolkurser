@@ -1,0 +1,977 @@
+{
+  "title": "Ecom Talent",
+  "extractedAt": "2026-03-30T10:54:02.111Z",
+  "programs": [
+    {
+      "id": "cors_6cYEj5qoUcmbcpSryUrfiR",
+      "title": "ecomtalent",
+      "description": "Learn how to make ads and scale ecom brands",
+      "coverImage": "",
+      "order": 1,
+      "sections": [
+        {
+          "id": "section-1-1",
+          "title": "INTRODUCTION",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "lesn_xhGjKPzSKp9CR",
+              "title": "My Goal Is To Change Your Life",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s1-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s1-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_WpuJEzhzEIA8j",
+              "title": "How You Will Turn Into a Top 5% Marketer",
+              "order": 2,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s1-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s1-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_f4di74GSrRiI1",
+              "title": "Proof This Works & What You Can Achieve",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s1-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s1-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_O4gxxr5BN3ue4",
+              "title": "Your First 30 Days Here (The Roadmap)",
+              "order": 4,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s1-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s1-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-1-2",
+          "title": "🏛️ FUNDAMENTALS",
+          "order": 2,
+          "lessons": [
+            {
+              "id": "lesn_2h4QgdX98DlYrJ4AT2lscb",
+              "title": "Course Overview",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s2-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s2-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5fM86GlyyNIRVLV0ehSr78",
+              "title": "How Do Ads Work?",
+              "order": 2,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s2-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s2-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_52iRhAVKqhXlPbhwVw5YC4",
+              "title": "Direct Response Advertising Fundamentals",
+              "order": 3,
+              "description": "BOOKS:\nBreakthrough Advertising, Eugene M. Schwartz (https://breakthroughadvertisingbook.com/)\n\nConfessions of an Advertising Man, David Ogilvy\n\nOgilvy on Advertising, David Ogilvy\n\nClaude C. Hopkins - Scientific Advertising\n\nDrew Eric Whitman - Cashvertising Online\n\nRobert B. Cialdini - Influence, The Psychology of Persuasion\n\nAlex Hormozi - $100M Offers\n\nAlex Hormozi - $100M Leads",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s2-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s2-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_4tWgAr5nJ7PrYnwO6ISblF",
+              "title": "Understanding Your Customer",
+              "order": 4,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s2-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s2-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_1BVzev36uX83RDDg9DJac6",
+              "title": "Buying Psychology",
+              "order": 5,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s2-l5.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s2-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_6s59AQwlE84oF70joDf45p",
+              "title": "Ad Creation Process",
+              "order": 6,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s2-l6.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s2-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_736H8p27WGlSaXuCNLpYhW",
+              "title": "Ad Inspiration System",
+              "order": 7,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s2-l7.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s2-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-1-3",
+          "title": "🏛️ VIDEO ADS MASTERY",
+          "order": 3,
+          "lessons": [
+            {
+              "id": "lesn_70r8gguLZGN3ktIG0UD3ai",
+              "title": "Introduction",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_fWllPolk7xNvEvCSbDMRN",
+              "title": "Organic Ads",
+              "order": 2,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_4PRV9HnnfTeuS1D1HopqIU",
+              "title": "Video Ad Safezone Guidelines",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5gOd8MUOpnZIJ1dKaTPZyj",
+              "title": "✦ Action Item: Organic Ads",
+              "order": 4,
+              "description": "ORGANIC AD#1 - Mom IG Reel - https://app.milanote.com/1TJkNo125DFJ3U?p=r8tC6cBQQUf\n\nORGANIC AD#2 - Comment Reply - https://app.milanote.com/1TJl3S1zBKllcW?p=cB0vJnPx0Mh\n\nORGANIC AD#3 - Haircare Routine - https://app.milanote.com/1TJl6d1zBKlldW?p=FcpVMv9E9oU",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5BXQf2CF3FOs12oxrbgC2g",
+              "title": "UGC",
+              "order": 5,
+              "description": "200+ UGC Ad Examples:\nhttps://app.milanote.com/1QRfAh1XTqNMbl?p=cI8rnQcGDMC",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l5.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_1b1vQbBN6UkYnXy3kRob8C",
+              "title": "✦ Action Item: UGC Ad",
+              "order": 6,
+              "description": "UGC AD#1 - Salon Quality Hair - https://app.milanote.com/1TJkYk1zBKllca?p=b6N4Xw4hTvp\n\nUGC AD#2 - Kids Getting Sick - https://app.milanote.com/1TJkLG125DFJ37?p=bJxIBRzO8Ji\n\nUGC AD#3 - Shady Shilajit - https://app.milanote.com/1TJkYq1zBKllcb?p=07RWau9YNtL",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l6.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_36NrAAFA16GROkHMsTOnzB",
+              "title": "VSLs",
+              "order": 7,
+              "description": "VSL Examples:\nhttps://app.tryatria.com/workspace/board/share/249c5064-b088-40dd-89f9-32674cbdab7a?token=e9bfYvha3Ufj",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l7.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5UU2bLbPz1eS0yeEYbBJCJ",
+              "title": "✦ Action Item: VSL Ad",
+              "order": 8,
+              "description": "VSL AD#1 - 3 Mistakes - https://app.milanote.com/1TJmzt1eSx3G2Z?p=kOg5QoQEe83\n\nVSL AD#2 - Attacking Coffee Industry - https://app.milanote.com/1TKIMv1PVAGSex?p=48WKE6pwwu3",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l8.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_6hZ3RjC9qJRvcVXdnODoJS",
+              "title": "High-Production Ads",
+              "order": 9,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l9.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_1FfxedDhmYefKyfWjxD0I2",
+              "title": "✦ Action Item: High-Production Ad",
+              "order": 10,
+              "description": "High-Production Ad #1 - https://app.milanote.com/1TJmzP1eSx3G30?p=dnbfyL8bM52",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l10.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l10.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_3W5cGvFEtXlNs3aLWESqn0",
+              "title": "Video Hooks",
+              "order": 11,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l11.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l11.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_78xs6wJNFhR1bkVceZVMnb",
+              "title": "Mr. Beast Retention Techniques",
+              "order": 12,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l12.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l12.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_eE7vFkIkG4sKtc4C8l6LJ",
+              "title": "Asset Management",
+              "order": 13,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l13.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l13.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_vxqavqdgjfY2RnR1qRZVE",
+              "title": "Music & SFX",
+              "order": 14,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l14.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l14.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_1gYce1osj9tiXf91n96jj1",
+              "title": "My Tech Stack For Editing Video Ads",
+              "order": 15,
+              "description": "VIDEO EDITING TECH STACK\nEDITING SOFTWARE:\n\nFinal Cut Pro (Or any other editing software like Premiere Pro, After Effects Davinci Resolve, CapCut)\n\nPlugins\n\nFOOTAGE:\n\nTikTok (https://ssstik.io/)\n\nUrlebird https://urlebird.com\n\nInstagram (https://igram.world/)\n\nYouTube (https://www.y2mate.com/)\n\nEnvato Elements https://elements.envato.com/\n\nPexels (Free stock footage) https://www.pexels.com/\n\nArtlist https://artlist.io/\n\n⚠️ FORGOT TO MENTION IN THE VIDEO ⚠️ (Resources for getting UGC/organic stock footage)\n\nhttps://gridbank.io/\n\nhttps://www.the-content-cove.com/\n\nhttps://www.packsia.com/\n\nMUSIC & SFX:\n\nTikTok\n\nInstagram\n\nYouTube\n\nArtlist https://artlist.io/\n\nINSPIRATION\n\nTikTok\n\nInstagram\n\nAtria https://tryatria.com/\n\nMeta Ad Library https://web.facebook.com/ads/library/",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l15.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l15.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_6M0y6m9HLKiMA9qSHcPHlB",
+              "title": "AI Content Upscaling",
+              "order": 16,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l16.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l16.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_fzf7ofSUpwoN6HQH78jSA",
+              "title": "AI Voiceovers",
+              "order": 17,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s3-l17.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s3-l17.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-1-4",
+          "title": "🏛️ VIDEO EDITING BREAKDOWNS",
+          "order": 4,
+          "lessons": [
+            {
+              "id": "lesn_9jREItCoLou8qRLcR0L2e",
+              "title": "🆕 Editing Breakdowns Overview",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5kPtUCuM6bDzrwVK6MMqdh",
+              "title": "LIVE Example: Editing a Video Ad",
+              "order": 2,
+              "description": "The fastest editing workflow\n\nDivide your edit by layers\n\nLayer 1 - ARoll / VO\n\nLayer 2 - Music\n\nLayer 3 - Broll\n\nLayer 4 - Animations/Transitions\n\nLayer 5 - Captions / Text\n\nLayer 6 - Sound Effects",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_4UynCyTEU6KW8GwUfaqi9g",
+              "title": "🆕 Video Editing Breakdown: Part 1 (Organic Ad) 1/3",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_51aB9Fcc8FuBCHHdtat4yj",
+              "title": "🆕 Video Editing Breakdown: Part 1 (Organic Ad) 2/3",
+              "order": 4,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5vqKOZleTI55JmXBEqMS4O",
+              "title": "🆕 Video Editing Breakdown: Part 1 (Organic Ad) 3/3",
+              "order": 5,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l5.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_3pX4auFhFbE42Mh5bK0MS2",
+              "title": "🆕 Video Editing Breakdown: Part 2 (UGC Ad)",
+              "order": 6,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l6.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_1NMftXxnOzrFaCMSiNvUjZ",
+              "title": "🆕 Video Editing Breakdown: Part 3 (Organic Ad)",
+              "order": 7,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l7.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5YEHQKJNWCgwPmcsSAyg77",
+              "title": "🆕 Video Editing Breakdown: Part 4 (Organic Ad)",
+              "order": 8,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l8.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_3qOYK6JVED9N8QkJZ8o3Hb",
+              "title": "🆕 Video Editing Breakdown: Part 5 (VSL Ad)",
+              "order": 9,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s4-l9.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s4-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-1-5",
+          "title": "🏛️ STATIC ADS",
+          "order": 5,
+          "lessons": [
+            {
+              "id": "lesn_5R9qygV5GLrWm8SxXsVsMm",
+              "title": "The Art Of 1 Frame",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s5-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s5-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_2XPI7WaFzI6YIrJW8fRXHX",
+              "title": "Static Ad Safezone Guidelines",
+              "order": 2,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s5-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s5-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5HT44WU6d8paaIERpt1lEP",
+              "title": "My Tech Stack For Doing Static Ads + Workflow",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s5-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s5-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_7Gm3cibPk7yES3VTuANtAA",
+              "title": "Static Ad Templates + LIVE Example",
+              "order": 4,
+              "description": "Static Ad Templates: https://www.figma.com/design/YeRz9qWJm3pmed0Q85dPkH/Static-Ad-Templates?node-id=215-9206&t=AG0wdamu36eb8lKT-1",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s5-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s5-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_36aPWrKA4T2Brrv0Ugs0lE",
+              "title": "✦ Action Item: Static Ads",
+              "order": 5,
+              "description": "Static Ad#1 - Confidence In Bed - https://app.milanote.com/1TK4xd15hpT14g?p=e5szNq6g0Jz\n\nStatic Ad#2 - Award-Winning Design - https://app.milanote.com/1TJmA21eSx3G31?p=NrCFsh7f2BD\n\nStatic Ad#3 - Keep Coffee Hot - https://app.milanote.com/1TK4xe15hpT14h?p=hRRdokv4t2c\n\nStatic Ad#4 - Pubity Style - https://app.milanote.com/1TKIJw1PVAGSdX?p=ylxmKmnhHSN\n\nStatic Ad#5 - US VS THEM - https://app.milanote.com/1TKJ8q1NY8nS6U?p=mX0DBfGwGaS\"\n  },\n  {\n    \"id\": \"lesn_4CsHnaOijIPBBj1nWS2x3x\",\n    \"title\": \"\"The Karlo Method\"\",\n    \"section\": \"🏛️ MONEY MAKING METHODS\",\n    \"program\": \"ecomtalent\",\n    \"description\": \"",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s5-l5.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s5-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-1-6",
+          "title": "🏛️ MONEY MAKING METHODS",
+          "order": 6,
+          "lessons": [
+            {
+              "id": "lesn_4CsHnaOijIPBBj1nWS2x3x",
+              "title": "\"The Karlo Method\"",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s6-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s6-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_6XiqGGfhwMcCwPkOAFYFeu",
+              "title": "Become an Affiliate",
+              "order": 2,
+              "description": "https://app.milanote.com/1TIaUt1HZXQe3i?p=P6rLgcHGR5S",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s6-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s6-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_50HddY7hENGJdAbLFB5G0w",
+              "title": "🆕 Private Marketplace Cheat Code (Job Board)",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s6-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s6-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_3oQNmkAwT7M1yQ0AL1jXND",
+              "title": "🆕 Ad Bounties (Insane Passive Income Opportunity)",
+              "order": 4,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s6-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s6-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-1-7",
+          "title": "🏛️ CREATIVE STRATEGY",
+          "order": 7,
+          "lessons": [
+            {
+              "id": "lesn_1dSTdXVrCqQT9f6wlgNIuz",
+              "title": "Overview (Creative Strategy Workflow)",
+              "order": 1,
+              "description": "https://whimsical.com/creative-strategy-workflow-HezE3E82dLtpUXvN73fma6",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_4gnuLlF8ORN8OhchFPvKjI",
+              "title": "Makret Awareness",
+              "order": 2,
+              "description": "Market Awareness Stages: https://app.milanote.com/1TS55J19Eyiv75?p=6BPhh3zRSB6",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_1XASLTKp63klKM5ZyRZuVQ",
+              "title": "Market Sophistication",
+              "order": 3,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_YAryyOfnxak3Mx99CogK5",
+              "title": "How To Do Deep Market Research (With AI)",
+              "order": 4,
+              "description": "Creative Strategy Prompts: https://docs.google.com/document/d/1M9IdaMc1td4dyQXVpw5uyNtWrTbaL3_RGmAjqJ2tgDo/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_3wsFwhzVleX6Ov2EjgVBtj",
+              "title": "How To Give Claude Access To Browse The Internet",
+              "order": 5,
+              "description": "HOW TO TURN CLAUDE INTO DEEP RESEARCH AI AGENT\n\nSTEP 1: Download claude desktop https://claude.ai/download and login with your details\n\nSTEP 2: Download node.js https://nodejs.org/en/download and install it\n\nSTEP 3: Download Brave Desktop\n\nSTEP 4: Go to https://brave.com/search/api/ and make an account\n\nSTEP 5: Generate an API Key\n\nSTEP 6: Copy this “open ~/Library/Application\\ Support/Claude” and paste it into Terminal\n\nSTEP 7: A folder should open up for you\n\nSTEP 8: Copy this “touch ~/Library/Application\\ Support/Claude/claude_desktop_config.json” and paste it into terminal\n\nSTEP 9: A new file should be created in the folder\n\nSTEP 10: Open the file with text edit\n\nSTEP 11: Delete everything inside that file and paste this inside: \n\n{\n\n\"mcpServers\": {\n\n\"brave-search\": {\n\n\"command\": \"npx\",\n\n\"args\": [\n\n\"-y\",\n\n\"@modelcontextprotocol/server-brave-search\"\n\n],\n\n\"env\": {\n\n\"BRAVE_API_KEY\": \"BSAmoW4hlK4fE6TstD44KYs5c0ADQfRu\"\n\n}\n\n}\n\n}\n\n}\n\nSTEP12: Replace \"BRAVE_API_KEY\" with your own\n\nSTEP 13: Quit Claude Desktop (Close it completely) and reopen it\n\nSTEP 14: After a minute or two you should see a small hammer icon (That means the MCP is working and you can use Claude to browse the internet)\"\n  },\n  {\n    \"id\": \"lesn_787PwImKE3pE0RFeeTdWmZ\",\n    \"title\": \"How To Build \"BRAND AI\"\",\n    \"section\": \"🏛️ CREATIVE STRATEGY\",\n    \"program\": \"ecomtalent\",\n    \"description\": \"Creative Strategy Prompts: https://docs.google.com/document/d/1M9IdaMc1td4dyQXVpw5uyNtWrTbaL3_RGmAjqJ2tgDo/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l5.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l5.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_787PwImKE3pE0RFeeTdWmZ",
+              "title": "How To Build \"BRAND AI\"",
+              "order": 6,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l6.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l6.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_7zVohMI3bOlj3jYPCElIbH",
+              "title": "Setting Up Growth Guide + Explanation",
+              "order": 7,
+              "description": "Growth Guide Template:\nhttps://docs.google.com/spreadsheets/d/1YVTSHKrOtlHR0_ABDQqcTA5FHC_ffXwzpzxLG_WzSTk/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l7.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l7.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5S3P36V1BEPZaaG0cDdind",
+              "title": "Ad Ideas 101: IMITATION 🎭",
+              "order": 8,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l8.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l8.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_6fkjkgiDITXyGUy0clgqoW",
+              "title": "Ad Ideas 101: IDEATION💡",
+              "order": 9,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l9.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l9.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_W7SP1R0VHq9sOCXHJUztQ",
+              "title": "Ad Ideas 101: ITERATION 🔁",
+              "order": 10,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l10.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l10.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_77FeRqEAVmZNIdidQGHANY",
+              "title": "How To Write Copy For Static Ads (With AI)",
+              "order": 11,
+              "description": "https://docs.google.com/document/d/1M9IdaMc1td4dyQXVpw5uyNtWrTbaL3_RGmAjqJ2tgDo/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l11.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l11.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_4l7G9co8p2B7mhGyjHsp9l",
+              "title": "How To Write Scripts For Video Ads (With AI)",
+              "order": 12,
+              "description": "https://docs.google.com/document/d/1M9IdaMc1td4dyQXVpw5uyNtWrTbaL3_RGmAjqJ2tgDo/edit?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l12.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l12.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5Ou5AChQpLaB5a4TtKlHJE",
+              "title": "🆕 Prompt Engineering (How to communicate with AI)",
+              "order": 13,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l13.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l13.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_3aRJDypYaxZkvMy0MH3kvc",
+              "title": "🆕 The Feedback Loop (Ad Learnings)",
+              "order": 14,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l14.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l14.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_2y522txfWzhKd9fuFFU9oG",
+              "title": "🆕 Breaking Down Winning Ads: PART 1",
+              "order": 15,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l15.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l15.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_6j3WiSRVEVnJtriVYIctCO",
+              "title": "🆕 How I Turned A Losing Ad Into A Winning Ad",
+              "order": 16,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s7-l16.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s7-l16.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-1-8",
+          "title": "🏛️ MY PERSONAL MARKETING WORKFLOW",
+          "order": 8,
+          "lessons": [
+            {
+              "id": "lesn_31GlKNwmZ4O53hdUe1EgcX",
+              "title": "🆕 How Our Brain Works",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s8-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s8-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_6vYbh7SckffXdLurCPty4o",
+              "title": "🆕 How I Approach Research/Coming Up With Ad Ideas",
+              "order": 2,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-s8-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-s8-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cors_tK36r7j14Fn5Q",
+      "title": "ecomtalent AI",
+      "description": "Learn how to generate content with AI",
+      "coverImage": "",
+      "order": 2,
+      "sections": [
+        {
+          "id": "section-2-1",
+          "title": "Introduction",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "lesn_4CdX4ape6YbqdF04qmT9bp",
+              "title": "What is Generative AI",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s1-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s1-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_2mfmyY2hoGGIdgHxLFXsih",
+              "title": "The history (and future) of GenAI",
+              "order": 2,
+              "description": "https://gamma.app/docs/The-History-And-Future-Of-Generative-AI-x64xsdc3gv0ohoz",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s1-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s1-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5SMtXGSkynbTg6QvaDzLuI",
+              "title": "GenAI Tech Stack Overview",
+              "order": 3,
+              "description": "https://gamma.app/docs/Generative-AI-Tech-Stack-4uq4qu8yjktu2bz",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s1-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s1-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-2-2",
+          "title": "AI Images",
+          "order": 2,
+          "lessons": [
+            {
+              "id": "lesn_6OHgJL9xQWCsD8ItYD44eM",
+              "title": "How To Generate 4K Product Images",
+              "order": 1,
+              "description": "4K Product Image Prompt Generator: https://gemini.google.com/gem/1AE1K78cymjq9zWLVenbm6cVE5bDCxM2f?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s2-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s2-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_607o0BIlt4Dz1GrykQsaII",
+              "title": "How To Generate Organic Product Images",
+              "order": 2,
+              "description": "Organic Product Image Prompt Generator: https://gemini.google.com/gem/1ncygw_3KkmMNMJTbfUQWZ4V-gXVK_2L-?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s2-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s2-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5X5rBnZ26u6bYpELWw0m1V",
+              "title": "How To Generate Ultra-Realistic AI Humans",
+              "order": 3,
+              "description": "Portrait Generator: https://gemini.google.com/gem/15sst5Iy4Gc0ka3UTzAUopdwQXB22EF4r?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s2-l3.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s2-l3.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_5HE7bmoxv9lkvOekKvodvs",
+              "title": "How To Make AI Human Do Whatever You Want",
+              "order": 4,
+              "description": "Scene Builder: https://gemini.google.com/gem/1hXD9KITk3HrssaqB126k1972kLJwTOXo?usp=sharing",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s2-l4.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s2-l4.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        },
+        {
+          "id": "section-2-3",
+          "title": "AI Videos",
+          "order": 3,
+          "lessons": [
+            {
+              "id": "lesn_4uRshhKQcVC6SvobYKnXgA",
+              "title": "AI UGC Ad Made From Scratch",
+              "order": 1,
+              "description": "",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s3-l1.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s3-l1.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            },
+            {
+              "id": "lesn_1I42kDbBOfhydT7F0aVsvn",
+              "title": "AI Animation Ad Made From Scratch",
+              "order": 2,
+              "description": "https://chatgpt.com/g/g-68db88718fb481919f26dd85b2ba6852-zackdfilms-visual-prompt-engineer",
+              "duration": "",
+              "videoFile": "videos/ecomtalent-ai-s3-l2.mp4",
+              "thumbnail": "thumbnails/ecomtalent-ai-s3-l2.jpg",
+              "transcript": "",
+              "completed": false,
+              "hasVideo": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

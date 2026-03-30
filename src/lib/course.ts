@@ -1,5 +1,10 @@
 import defaultCourseData from "@/data/course.json";
 import defaultVideoMap from "@/data/video-map.json";
+import ecomtalentCourse from "@/data/courses/ecomtalent/course.json";
+import ecomtalentVideoMap from "@/data/courses/ecomtalent/video-map.json";
+import earlyaiCourse from "@/data/courses/earlyaidopters/course.json";
+import earlyaiVideoMap from "@/data/courses/earlyaidopters/video-map.json";
+
 
 export interface Lesson {
   id: string;
@@ -74,6 +79,23 @@ export function registerCourse(entry: CourseEntry): void {
     additionalCourses.push(entry);
   }
 }
+
+// Register Ecom Talent (Whop course)
+registerCourse({
+  id: "ecomtalent",
+  title: (ecomtalentCourse as unknown as Course).title || "Ecom Talent",
+  course: ecomtalentCourse as unknown as Course,
+  videoMap: ecomtalentVideoMap as Record<string, string>,
+});
+
+// Register Early AI Adopters (Skool course)
+registerCourse({
+  id: "earlyaidopters",
+  title: (earlyaiCourse as unknown as Course).title || "Early AI Adopters",
+  course: earlyaiCourse as unknown as Course,
+  videoMap: earlyaiVideoMap as Record<string, string>,
+});
+
 
 // ─── Active course management ───────────────────────────────────────
 
