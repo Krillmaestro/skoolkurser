@@ -73,12 +73,10 @@ export default function LoginPage() {
         <form onSubmit={handleSubmit}>
           <input
             type="password"
-            inputMode="numeric"
-            pattern="[0-9]*"
-            maxLength={8}
+            maxLength={128}
             value={pin}
             onChange={(e) => setPin(e.target.value)}
-            placeholder="PIN-kod"
+            placeholder="Lösenord"
             autoFocus
             disabled={isPending}
             style={{
