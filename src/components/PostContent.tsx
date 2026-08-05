@@ -141,19 +141,17 @@ export default function PostContent({
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
 
-    // Lists open with [ul] or [ol:N] and have no closing tag: items are
-    // [li]-separated and may run across several lines, so keep absorbing
-    // lines while they still start with [li].
-    // A bare [li] line can appear when a list is split by an edit; treat it
-    // as an unordered list rather than leaking the tag into the text.
-    const listMatch =
-      line.match(/^\s*\[(ul|ol)(?::(\d+))?\]([\s\S]*)$/) ||
-      (/^\s*\[li\]/.test(line) ? (["", "ul", "", line] as unknown as RegExpMatchArray) : null);
-    if (listMatch) {
-      const ordered = listMatch[1] === "ol";
-      const start = Number(listMatch[2] || 1);
-      let raw = listMatch[3];
+    // Lists open with [ul] or [ol:N] and have no closing tag. A bare [li]
+    // line also starts one — that happens when an edit splits a list.
+    const opener = line.match(/^\s*\[(ul|ol)(?::(\d+))?\]/);
+    if (opener || /^\s*\[li\]/.test(line)) {
+      const ordered = opener?.[1] === "ol";
+      const start = Number(opener?.[2] || 1);
       const from = i;
+
+      // Items are [li]-separated and may run across several lines, so keep
+      // absorbing lines while they still start with [li].
+      let raw = opener ? line.slice(opener[0].length) : line;
       while (i + 1 < lines.length && /^\s*\[li\]/.test(lines[i + 1])) {
         raw += lines[++i];
       }
