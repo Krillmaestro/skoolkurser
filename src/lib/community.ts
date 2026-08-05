@@ -153,7 +153,7 @@ export function countComments(list: Comment[]): number {
 /** First line of a post body, with Skool's list markup stripped. */
 export function excerpt(content: string, max = 220): string {
   const flat = content
-    .replace(/\[ul\]|\[ol\]/g, "")
+    .replace(/\[ul\]|\[ol(?::\d+)?\]/g, "")
     .replace(/\[li\]/g, " • ")
     .replace(/!\[[^\]]*\]\([^)]*\)/g, "")
     .replace(/\[([^\]]*)\]\([^)]*\)/g, "$1")

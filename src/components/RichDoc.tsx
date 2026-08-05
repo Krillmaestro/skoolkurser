@@ -51,8 +51,12 @@ function renderText(node: Node, key: React.Key): React.ReactNode {
         );
         break;
       case "videoTimestamp": {
-        // Skool renders these as buttons that seek the lesson video.
-        const seconds = Number(mark.attrs?.time ?? mark.attrs?.seconds ?? 0);
+        // Skool stores these as a display string ("5:00" or "1:02:30") and
+        // renders a button that seeks the lesson video to that point.
+        const parts = String(mark.attrs?.timestamp ?? node.text ?? "")
+          .split(":")
+          .map((n) => Number(n) || 0);
+        const seconds = parts.reduce((acc, n) => acc * 60 + n, 0);
         el = (
           <button
             type="button"

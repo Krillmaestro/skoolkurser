@@ -13,7 +13,10 @@ import React from "react";
 
 type Inline = React.ReactNode;
 
-const URL_RE = /(https?:\/\/[^\s<>()[\]]+)/g;
+// Two copies on purpose: `split` needs the global flag to capture every
+// delimiter, while `test` must not carry lastIndex between calls.
+const URL_SPLIT_RE = /(https?:\/\/[^\s<>()[\]]+)/g;
+const URL_TEST_RE = /^https?:\/\/[^\s<>()[\]]+$/;
 
 function unescape(text: string): string {
   return text.replace(/\\([()[\]\\*_~`])/g, "$1");
@@ -103,9 +106,9 @@ function renderPlain(text: string, keyPrefix: string): Inline[] {
 }
 
 function linkifyBare(text: string, keyPrefix: string): Inline[] {
-  const parts = text.split(URL_RE);
+  const parts = text.split(URL_SPLIT_RE);
   return parts.map((part, i) =>
-    URL_RE.test(part) ? (
+    URL_TEST_RE.test(part) ? (
       <a
         key={`${keyPrefix}-u${i}`}
         href={part}
@@ -138,23 +141,37 @@ export default function PostContent({
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
 
-    // A line beginning a list: [ul][li]a[li]b   (or [ol] for numbered)
-    const listMatch = line.match(/^\s*\[(ul|ol)\]([\s\S]*)$/);
+    // Lists open with [ul] or [ol:N] and have no closing tag: items are
+    // [li]-separated and may run across several lines, so keep absorbing
+    // lines while they still start with [li].
+    // A bare [li] line can appear when a list is split by an edit; treat it
+    // as an unordered list rather than leaking the tag into the text.
+    const listMatch =
+      line.match(/^\s*\[(ul|ol)(?::(\d+))?\]([\s\S]*)$/) ||
+      (/^\s*\[li\]/.test(line) ? (["", "ul", "", line] as unknown as RegExpMatchArray) : null);
     if (listMatch) {
       const ordered = listMatch[1] === "ol";
-      const items = listMatch[2]
+      const start = Number(listMatch[2] || 1);
+      let raw = listMatch[3];
+      const from = i;
+      while (i + 1 < lines.length && /^\s*\[li\]/.test(lines[i + 1])) {
+        raw += lines[++i];
+      }
+
+      const items = raw
         .split("[li]")
         .map((s) => s.trim())
         .filter(Boolean);
       const ListTag = ordered ? "ol" : "ul";
       blocks.push(
         <ListTag
-          key={`b${i}`}
+          key={`b${from}`}
+          start={ordered ? start : undefined}
           className={`${ordered ? "list-decimal" : "list-disc"} pl-6 mb-3 space-y-1`}
         >
           {items.map((item, j) => (
             <li key={j} className="leading-[1.7]">
-              {renderInline(item, `b${i}-${j}`)}
+              {renderInline(item, `b${from}-${j}`)}
             </li>
           ))}
         </ListTag>
