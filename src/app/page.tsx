@@ -6,6 +6,7 @@ import { getCourse, slugify } from "@/lib/course";
 import { getOverallProgress } from "@/lib/progress";
 import CourseSwitcher from "@/components/CourseSwitcher";
 import SearchBar from "@/components/SearchBar";
+import CommunityLink from "@/components/CommunityLink";
 
 export default function ClassroomPage() {
   const course = getCourse();
@@ -56,6 +57,7 @@ export default function ClassroomPage() {
               {course.title}
             </span>
             <CourseSwitcher />
+            <CommunityLink />
             <div className="ml-auto">
               <SearchBar />
             </div>

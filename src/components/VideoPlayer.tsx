@@ -1,13 +1,18 @@
 "use client";
 
-import { useRef, useCallback, useState } from "react";
+import { useRef, useCallback, useState, useEffect } from "react";
 import { markLessonComplete } from "@/lib/progress";
 
 interface VideoPlayerProps {
   src: string;
   lessonId: string;
   poster?: string;
+  kind?: "video" | "youtube";
   onEnded?: () => void;
+}
+
+function youTubeId(url: string): string {
+  return url.match(/(?:v=|youtu\.be\/|embed\/|shorts\/)([\w-]{6,})/)?.[1] || "";
 }
 
 function isGoogleDriveId(src: string): boolean {
@@ -16,9 +21,23 @@ function isGoogleDriveId(src: string): boolean {
   return /^[a-zA-Z0-9_-]{20,}$/.test(src);
 }
 
-export default function VideoPlayer({ src, lessonId, poster, onEnded }: VideoPlayerProps) {
+export default function VideoPlayer({ src, lessonId, poster, kind, onEnded }: VideoPlayerProps) {
   const videoRef = useRef<HTMLVideoElement>(null);
   const [iframeLoaded, setIframeLoaded] = useState(false);
+
+  // Timestamps inside a lesson description seek the player (a Skool feature).
+  useEffect(() => {
+    const onSeek = (e: Event) => {
+      const seconds = (e as CustomEvent<{ seconds: number }>).detail?.seconds;
+      const video = videoRef.current;
+      if (video && typeof seconds === "number") {
+        video.currentTime = seconds;
+        video.play().catch(() => {});
+      }
+    };
+    window.addEventListener("seek-video", onSeek);
+    return () => window.removeEventListener("seek-video", onSeek);
+  }, []);
 
   const handleEnded = useCallback(() => {
     markLessonComplete(lessonId);
@@ -48,6 +67,23 @@ export default function VideoPlayer({ src, lessonId, poster, onEnded }: VideoPla
         </div>
       </div>
     );
+  }
+
+  // YouTube — Skool embeds these rather than hosting them, so the replica does too.
+  if (kind === "youtube" || /(?:youtube\.com|youtu\.be)/.test(src)) {
+    const id = youTubeId(src);
+    if (id) {
+      return (
+        <div className="w-full aspect-video bg-[#0a0a0a] rounded-xl overflow-hidden shadow-lg">
+          <iframe
+            src={`https://www.youtube.com/embed/${id}`}
+            className="w-full h-full"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowFullScreen
+          />
+        </div>
+      );
+    }
   }
 
   // Google Drive iframe embed

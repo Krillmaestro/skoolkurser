@@ -4,6 +4,8 @@ import ecomtalentCourse from "@/data/courses/ecomtalent/course.json";
 import ecomtalentVideoMap from "@/data/courses/ecomtalent/video-map.json";
 import earlyaiCourse from "@/data/courses/earlyaidopters/course.json";
 import earlyaiVideoMap from "@/data/courses/earlyaidopters/video-map.json";
+import emmCourse from "@/data/courses/email-marketerz/course.json";
+import emmVideoMap from "@/data/courses/email-marketerz/video-map.json";
 
 
 export interface Lesson {
@@ -20,6 +22,11 @@ export interface Lesson {
   // Computed helpers
   hasVideo?: boolean;
   duration?: string;
+  /** Skool ProseMirror document, when the source kept the rich formatting. */
+  descriptionDoc?: any[] | null;
+  /** Program the member has not purchased — Skool shows the title only. */
+  locked?: boolean;
+  resources?: any[];
 }
 
 export interface Section {
@@ -49,6 +56,16 @@ export interface CourseEntry {
   title: string;
   course: Course;
   videoMap: Record<string, string>;
+  hasCommunity?: boolean;
+}
+
+/**
+ * Older courses map a lesson to a bare URL or Drive id; email-marketerz maps
+ * to `{ type, url }` so YouTube embeds can be told apart from mp4 files.
+ */
+export interface VideoSource {
+  type: "video" | "youtube";
+  url: string;
 }
 
 // ─── Multi-course registry ──────────────────────────────────────────
@@ -96,6 +113,15 @@ registerCourse({
   videoMap: earlyaiVideoMap as Record<string, string>,
 });
 
+// Register Email Marketing Mastery (Skool course + community)
+registerCourse({
+  id: "email-marketerz",
+  title: (emmCourse as unknown as Course).title || "Email Marketing Mastery",
+  course: emmCourse as unknown as Course,
+  videoMap: emmVideoMap as unknown as Record<string, string>,
+  hasCommunity: true,
+});
+
 
 // ─── Active course management ───────────────────────────────────────
 
@@ -128,8 +154,17 @@ export function getCourse(): Course {
 }
 
 export function getVideoUrl(lessonId: string): string {
-  const entry = getActiveCourseEntry();
-  return entry.videoMap[lessonId] || "";
+  const v = getActiveCourseEntry().videoMap[lessonId];
+  if (!v) return "";
+  return typeof v === "string" ? v : (v as unknown as VideoSource).url || "";
+}
+
+export function getVideoSource(lessonId: string): VideoSource | null {
+  const v = getActiveCourseEntry().videoMap[lessonId];
+  if (!v) return null;
+  if (typeof v === "string") return { type: "video", url: v };
+  const src = v as unknown as VideoSource;
+  return src.url ? { type: src.type || "video", url: src.url } : null;
 }
 
 export function slugify(text: string): string {
