@@ -111,6 +111,7 @@ registerCourse({
   title: (earlyaiCourse as unknown as Course).title || "Early AI Adopters",
   course: earlyaiCourse as unknown as Course,
   videoMap: earlyaiVideoMap as Record<string, string>,
+  hasCommunity: true,
 });
 
 // Register Email Marketing Mastery (Skool course + community)

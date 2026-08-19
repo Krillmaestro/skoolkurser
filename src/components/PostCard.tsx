@@ -10,13 +10,13 @@ function PinIcon() {
   );
 }
 
-export default function PostCard({ post, label }: { post: Post; label: Label | null }) {
+export default function PostCard({ group, post, label }: { group: string; post: Post; label: Label | null }) {
   const thumb = post.imagePreview || post.videoLinks?.[0]?.thumbnail || "";
   const hasVideo = !post.imagePreview && !!post.videoLinks?.[0];
 
   return (
     <Link
-      href={`/community/${post.slug}`}
+      href={`/community/${group}/${post.slug}`}
       className="block bg-card-bg rounded-xl border border-border-card px-5 py-4 card-hover"
     >
       <div className="flex items-start gap-3">

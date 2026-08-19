@@ -4,13 +4,13 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import type { CommunityGroup } from "@/lib/community";
 
-const TABS = [
-  { label: "Community", href: "/community" },
-  { label: "Classroom", href: "/" },
-];
-
 export default function CommunityHeader({ group }: { group: CommunityGroup }) {
   const pathname = usePathname();
+  const communityHref = `/community/${group.slug}`;
+  const TABS = [
+    { label: "Community", href: communityHref },
+    { label: "Classroom", href: "/" },
+  ];
 
   return (
     <header className="bg-header-bg border-b border-border sticky top-0 z-50">
@@ -19,7 +19,7 @@ export default function CommunityHeader({ group }: { group: CommunityGroup }) {
           {group.logo && (
             <img src={group.logo} alt="" className="w-8 h-8 rounded-lg object-cover" />
           )}
-          <Link href="/community" className="font-bold text-[17px] text-foreground hover:opacity-70 transition-opacity">
+          <Link href={communityHref} className="font-bold text-[17px] text-foreground hover:opacity-70 transition-opacity">
             {group.name}
           </Link>
         </div>
@@ -27,7 +27,7 @@ export default function CommunityHeader({ group }: { group: CommunityGroup }) {
         <nav className="flex items-center gap-6 -mb-px">
           {TABS.map((tab) => {
             const active =
-              tab.href === "/community" ? pathname.startsWith("/community") : !pathname.startsWith("/community");
+              tab.href === communityHref ? pathname.startsWith("/community") : !pathname.startsWith("/community");
             return (
               <Link
                 key={tab.href}

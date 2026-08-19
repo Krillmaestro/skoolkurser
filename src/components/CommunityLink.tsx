@@ -10,17 +10,18 @@ import { getActiveCourseEntry } from "@/lib/course";
  * localStorage.
  */
 export default function CommunityLink() {
-  const [show, setShow] = useState(false);
+  const [courseId, setCourseId] = useState<string | null>(null);
 
   useEffect(() => {
-    setShow(!!getActiveCourseEntry().hasCommunity);
+    const entry = getActiveCourseEntry();
+    setCourseId(entry.hasCommunity ? entry.id : null);
   }, []);
 
-  if (!show) return null;
+  if (!courseId) return null;
 
   return (
     <Link
-      href="/community"
+      href={`/community/${courseId}`}
       className="px-3 py-1.5 rounded-full text-[13px] font-medium text-muted hover:text-foreground hover:bg-surface-hover transition-colors"
     >
       Community

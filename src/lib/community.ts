@@ -1,4 +1,5 @@
-import communityData from "@/data/courses/email-marketerz/community.json";
+import emmCommunity from "@/data/courses/email-marketerz/community.json";
+import earlyaiCommunity from "@/data/courses/earlyaidopters/community.json";
 
 export interface CommunityUser {
   id: string;
@@ -104,28 +105,33 @@ export interface Community {
   leaderboard: LeaderboardEntry[];
 }
 
-// The community belongs to the email-marketerz course; other courses in the
-// viewer were extracted from classroom-only sources.
-export const COMMUNITY_COURSE_ID = "email-marketerz";
+// One replica community per course that was extracted with one. The route
+// segment (/community/<group>) matches the course id in course.ts.
+const COMMUNITIES: Record<string, Community> = {
+  "email-marketerz": emmCommunity as unknown as Community,
+  earlyaidopters: earlyaiCommunity as unknown as Community,
+};
+
+export const COMMUNITY_GROUPS = Object.keys(COMMUNITIES);
 
 export const PAGE_SIZE = 30;
 
-export function getCommunity(): Community {
-  return communityData as unknown as Community;
+export function getCommunity(group: string): Community | null {
+  return COMMUNITIES[group] || null;
 }
 
-export function getLabel(id: string): Label | null {
-  return getCommunity().labels.find((l) => l.id === id) || null;
+export function getLabel(group: string, id: string): Label | null {
+  return getCommunity(group)?.labels.find((l) => l.id === id) || null;
 }
 
-export function getPosts(labelId?: string): Post[] {
-  const all = getCommunity().posts;
+export function getPosts(group: string, labelId?: string): Post[] {
+  const all = getCommunity(group)?.posts || [];
   if (!labelId) return all;
   return all.filter((p) => p.labelId === labelId);
 }
 
-export function getPost(slug: string): Post | null {
-  return getCommunity().posts.find((p) => p.slug === slug) || null;
+export function getPost(group: string, slug: string): Post | null {
+  return getCommunity(group)?.posts.find((p) => p.slug === slug) || null;
 }
 
 /** "16h ago", "5d ago", "Mar 3" — matching how Skool labels post times. */
