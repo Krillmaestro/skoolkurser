@@ -1,7 +1,7 @@
 {
   "title": "Email Marketing Mastery",
   "groupSlug": "email-marketerz",
-  "extractedAt": "2026-08-18T17:55:01.723Z",
+  "extractedAt": "2026-08-19T23:36:13.709Z",
   "programs": [
     {
       "id": "a609dd4e2b6945a68ecd4288ff39c4dd",
@@ -7639,7 +7639,7 @@
               "duration": "",
               "videoLenMs": 0,
               "thumbnail": "",
-              "hasVideo": false,
+              "hasVideo": true,
               "locked": false,
               "resources": [],
               "transcript": "",
@@ -8891,7 +8891,7 @@
               "duration": "",
               "videoLenMs": 0,
               "thumbnail": "",
-              "hasVideo": false,
+              "hasVideo": true,
               "locked": false,
               "resources": [],
               "transcript": "",
@@ -49875,7 +49875,7 @@
               "duration": "",
               "videoLenMs": 0,
               "thumbnail": "",
-              "hasVideo": false,
+              "hasVideo": true,
               "locked": false,
               "resources": [],
               "transcript": "",
@@ -51167,7 +51167,7 @@
               "duration": "",
               "videoLenMs": 0,
               "thumbnail": "",
-              "hasVideo": false,
+              "hasVideo": true,
               "locked": false,
               "resources": [],
               "transcript": "",
@@ -80501,9 +80501,905 @@
               "duration": "1:14:28",
               "videoLenMs": 4468000,
               "thumbnail": "https://i.ytimg.com/vi/kfXpeu2KnvY/maxresdefault.jpg",
-              "hasVideo": false,
+              "hasVideo": true,
               "locked": false,
               "resources": [],
+              "transcript": "",
+              "completed": false
+            },
+            {
+              "id": "1d83caccf3ee456292b2df947602a785",
+              "title": "I Studied Every $100M Ecommerce Offer",
+              "order": 16,
+              "description": "Link To In-Depth Summary Document >>\nTwo brands can sell the exact same product, and one hits nine figures while the other stays stuck at seven forever. It's not the team, the ads, or the product. Brands like AG1, True Classic, and IM8 have all mastered the same thing: the offer. Most brands test discount depths (10% vs. 20% vs. 30%) and call it offer testing. It isn't, and that's the biggest reason most brands never break through.\nThis breakdown covers the 3 offer types behind every brand that's scaled past the ceiling, with real examples from the brands running each one and exactly how to apply it to your own business.\nInside:\nWhy subscribers are worth $226 at month 6 versus $138 for non-subscribers, and the front-loaded discount structure that gets people to subscribe on their first order\nTrue Classic's six-pack anchor strategy, and why the middle bundle tier (not the biggest) converts best\nThe BOGO reframe that consistently beats an equivalent percentage discount, even when the math is identical\nThe 8-part offer test that took one brand from $33K to $210K, a 3x lift in opt-ins and placed-order rate simultaneously\nWhether dollar off or percent off converts better for your brand, based entirely on your AOVRead the full doc for the complete breakdown, including the 4 subscription offer types ranked, the exact offer menu to test, and how to stack your existing site discount with your first-order offer for a much bigger number.",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "class": "link",
+                            "href": "https://docs.google.com/document/d/1fPShsXWPte0F6kYZX0YnNwKHohZFkeiNytTu8eov7nY/edit?usp=sharing",
+                            "rel": "noopener noreferrer nofollow",
+                            "target": "_blank"
+                          }
+                        }
+                      ],
+                      "text": "Link To In-Depth Summary Document >>"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Two brands can sell the exact same product, and one hits nine figures while the other stays stuck at seven forever. It's not the team, the ads, or the product. Brands like AG1, True Classic, and IM8 have all mastered the same thing: the offer. Most brands test discount depths (10% vs. 20% vs. 30%) and call it offer testing. It isn't, and that's the biggest reason most brands never break through."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This breakdown covers the 3 offer types behind every brand that's scaled past the ceiling, with real examples from the brands running each one and exactly how to apply it to your own business."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Inside:"
+                    }
+                  ]
+                },
+                {
+                  "type": "orderedList",
+                  "attrs": {
+                    "start": 1
+                  },
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Why subscribers are worth $226 at month 6 versus $138 for non-subscribers, and the front-loaded discount structure that gets people to subscribe on their first order"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "True Classic's six-pack anchor strategy, and why the middle bundle tier (not the biggest) converts best"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The BOGO reframe that consistently beats an equivalent percentage discount, even when the math is identical"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The 8-part offer test that took one brand from $33K to $210K, a 3x lift in opt-ins and placed-order rate simultaneously"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Whether dollar off or percent off converts better for your brand, based entirely on your AOV"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Read the full doc for the complete breakdown, including the 4 subscription offer types ranked, the exact offer menu to test, and how to stack your existing site discount with your first-order offer for a much bigger number."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ],
+              "duration": "22:27",
+              "videoLenMs": 1347000,
+              "thumbnail": "https://i.ytimg.com/vi/SjSkuT5BtTA/maxresdefault.jpg",
+              "hasVideo": true,
+              "locked": false,
+              "resources": [],
+              "transcript": "",
+              "completed": false
+            },
+            {
+              "id": "f0e72c978f8c47eb9d54922afdcabb6b",
+              "title": "The Only Abandoned Cart Flow Tutorial You Need",
+              "order": 17,
+              "description": "Link To In-Depth Summary Document >>\nYou've probably been building your abandoned cart flow wrong. Cart abandon and checkout abandon get treated as one flow far more often than they should, and most brands only have one of the two set up. This exact structure is running at $600K+ a month in flow revenue at one brand, and has generated $6.2M total at another, built across 300+ brands and $250M+ in revenue.\nThis breakdown covers the complete, no-BS structure for both flows: the buyer/non-buyer split almost everyone skips, the exact timing that beats every slower cadence, and the four-email sequence that does the actual converting.\nInside:\nWhy cart abandon and checkout abandon need two completely separate triggers, not one shared flow\nThe 80% stat behind the easiest, most overlooked conversion lift in abandonment flows: reminding non-buyers of a discount they already have\nWhy daily spacing beats every-2-3-days, and the legal reason you can only ever send one SMS\nThe exact 4-email structure: aggressive copy, social proof, a founder text-based email, and a raised discount that escalates instead of front-loads\nThe filter setup that automatically removes converting customers so they never get an awkward abandonment email after the factRead the full doc for the complete build, including the profile filters for both flows, buyer vs. non-buyer copy differences email by email, and whether customizing cart vs. checkout copy is actually worth the extra effort.",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "class": "link",
+                            "href": "https://docs.google.com/document/d/1Ir6NYwkz-aUVvrkPAweiwafvd8nJRRfXuFb06aIC5k0/edit?usp=sharing",
+                            "rel": "noopener noreferrer nofollow",
+                            "target": "_blank"
+                          }
+                        }
+                      ],
+                      "text": "Link To In-Depth Summary Document >>"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "You've probably been building your abandoned cart flow wrong. Cart abandon and checkout abandon get treated as one flow far more often than they should, and most brands only have one of the two set up. This exact structure is running at $600K+ a month in flow revenue at one brand, and has generated $6.2M total at another, built across 300+ brands and $250M+ in revenue."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This breakdown covers the complete, no-BS structure for both flows: the buyer/non-buyer split almost everyone skips, the exact timing that beats every slower cadence, and the four-email sequence that does the actual converting."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Inside:"
+                    }
+                  ]
+                },
+                {
+                  "type": "orderedList",
+                  "attrs": {
+                    "start": 1
+                  },
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Why cart abandon and checkout abandon need two completely separate triggers, not one shared flow"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The 80% stat behind the easiest, most overlooked conversion lift in abandonment flows: reminding non-buyers of a discount they already have"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Why daily spacing beats every-2-3-days, and the legal reason you can only ever send one SMS"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The exact 4-email structure: aggressive copy, social proof, a founder text-based email, and a raised discount that escalates instead of front-loads"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The filter setup that automatically removes converting customers so they never get an awkward abandonment email after the fact"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Read the full doc for the complete build, including the profile filters for both flows, buyer vs. non-buyer copy differences email by email, and whether customizing cart vs. checkout copy is actually worth the extra effort."
+                    }
+                  ]
+                }
+              ],
+              "duration": "9:51",
+              "videoLenMs": 591000,
+              "thumbnail": "https://i.ytimg.com/vi/oROEFq8r31Y/maxresdefault.jpg",
+              "hasVideo": true,
+              "locked": false,
+              "resources": [],
+              "transcript": "",
+              "completed": false
+            },
+            {
+              "id": "056787d3df3745ea86bd897f26a76892",
+              "title": "The Most Valuable Subscription Video 2026",
+              "order": 18,
+              "description": "Link To In-Depth Summary Document >>\nYour ceiling is an acquisition problem wearing a retention costume. That's the core idea from this deep dive with Matthew Holman of Subscription Prescription, six or seven years deep in subscription, three or four hundred calls with subscription brands under his belt. It doesn't matter how good you get at retaining somebody if you don't have somebody to retain, and most brands never shift enough focus to fix that.\nThis breakdown covers all four stages of a subscription program: acquisition and offers, onboarding, active retention, and win-back, with the exact math, mechanics, and mistakes behind each one.\nInside:\nWhy moving opt-in rate from 40% to 45% beats months of retention work trying to move cohort retention 5 points\nThe buy-more-save-more mechanic that fixes discounting on low-priced products, plus the real math behind why it filters for higher-LTV customers\nWhy free gifts usually waste margin unless they're announced before they arrive, and the click-to-claim mechanic that fixes it\nThe founder splash screen that took one brand's cancel flow save rate from 5% to 15% in one change\nWhy pauses are broken by design, and the stat behind why customers who adjust frequency 3+ times are worth 200% moreRead the full doc for the complete breakdown, including the onboarding \"prove it\" model that builds years of brand trust, how to protect subscriber value during BFCM, and the payment recovery segmentation most brands are leaving on the table.",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "class": "link",
+                            "href": "https://docs.google.com/document/d/1jg1-KpdGvoY2_N5RWBM9n3_61uRS-HRsP7l1p-MmS8Y/edit?usp=sharing",
+                            "rel": "noopener noreferrer nofollow",
+                            "target": "_blank"
+                          }
+                        }
+                      ],
+                      "text": "Link To In-Depth Summary Document >>"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Your ceiling is an acquisition problem wearing a retention costume. That's the core idea from this deep dive with Matthew Holman of Subscription Prescription, six or seven years deep in subscription, three or four hundred calls with subscription brands under his belt. It doesn't matter how good you get at retaining somebody if you don't have somebody to retain, and most brands never shift enough focus to fix that."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "This breakdown covers all four stages of a subscription program: acquisition and offers, onboarding, active retention, and win-back, with the exact math, mechanics, and mistakes behind each one."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Inside:"
+                    }
+                  ]
+                },
+                {
+                  "type": "orderedList",
+                  "attrs": {
+                    "start": 1
+                  },
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Why moving opt-in rate from 40% to 45% beats months of retention work trying to move cohort retention 5 points"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The buy-more-save-more mechanic that fixes discounting on low-priced products, plus the real math behind why it filters for higher-LTV customers"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Why free gifts usually waste margin unless they're announced before they arrive, and the click-to-claim mechanic that fixes it"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The founder splash screen that took one brand's cancel flow save rate from 5% to 15% in one change"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Why pauses are broken by design, and the stat behind why customers who adjust frequency 3+ times are worth 200% more"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Read the full doc for the complete breakdown, including the onboarding \"prove it\" model that builds years of brand trust, how to protect subscriber value during BFCM, and the payment recovery segmentation most brands are leaving on the table."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ],
+              "duration": "56:13",
+              "videoLenMs": 3373000,
+              "thumbnail": "https://i.ytimg.com/vi/KHK4pyofUgs/maxresdefault.jpg",
+              "hasVideo": true,
+              "locked": false,
+              "resources": [],
+              "transcript": "",
+              "completed": false
+            },
+            {
+              "id": "9e75871d4e634a01879e9a370b177cb0",
+              "title": "The Only Black Friday/Cyber Monday Guide",
+              "order": 19,
+              "description": "Link To In-Depth Summary Document >>\nBlack Friday is already here, and most brands still don't have a real strategy in place. This is the 2026 Q4 profit playbook running across 100+ brands at Well Copy, covering everything from what actually happened in 2025 to the exact calendar, offers, and email/SMS execution to run this year without torching your margins.\nEverybody wins on revenue during Q4. Almost nobody wins on profit, and the old playbook of \"discount deeper, send more\" stopped working in 2025. This breaks down what replaced it.\nInside:\nWhy September CPMs run half the price of November, and the list-building strategy that lets you own the expensive weeks through email and SMS instead of ad spend\nThe exact 2026 calendar and cycling offer strategy, why running one static discount the whole period tanks your engagement by day 7\nReal brand breakdowns (AG1, Create Wellness, IM8, Cuts Clothing, Gym Shark) and the specific mechanics behind each of their sequences\nThe \"open the floodgates\" segmentation approach, why going wide on your list beats playing it safe during peak weeks\nThe Q1 win-back system most brands never build, and why BFCM customers repeat purchase 30-50% worse than every other cohortRead the full doc for the complete breakdown, including the exact send frequency by period, why resending the same email with a new subject line works better than you'd think, and the full Q1 profit recovery playbook.",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "class": "link",
+                            "href": "https://docs.google.com/document/d/1qbjRyicuyXXTUpIZrvCoW0qey3QkR6VzjXLDTl5fRgg/edit?usp=sharing",
+                            "rel": "noopener noreferrer nofollow",
+                            "target": "_blank"
+                          }
+                        }
+                      ],
+                      "text": "Link To In-Depth Summary Document >>"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Black Friday is already here, and most brands still don't have a real strategy in place. This is the 2026 Q4 profit playbook running across 100+ brands at Well Copy, covering everything from what actually happened in 2025 to the exact calendar, offers, and email/SMS execution to run this year without torching your margins."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Everybody wins on revenue during Q4. Almost nobody wins on profit, and the old playbook of \"discount deeper, send more\" stopped working in 2025. This breaks down what replaced it."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Inside:"
+                    }
+                  ]
+                },
+                {
+                  "type": "orderedList",
+                  "attrs": {
+                    "start": 1
+                  },
+                  "content": [
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Why September CPMs run half the price of November, and the list-building strategy that lets you own the expensive weeks through email and SMS instead of ad spend"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The exact 2026 calendar and cycling offer strategy, why running one static discount the whole period tanks your engagement by day 7"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "Real brand breakdowns (AG1, Create Wellness, IM8, Cuts Clothing, Gym Shark) and the specific mechanics behind each of their sequences"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The \"open the floodgates\" segmentation approach, why going wide on your list beats playing it safe during peak weeks"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "listItem",
+                      "content": [
+                        {
+                          "type": "paragraph",
+                          "content": [
+                            {
+                              "type": "text",
+                              "text": "The Q1 win-back system most brands never build, and why BFCM customers repeat purchase 30-50% worse than every other cohort"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Read the full doc for the complete breakdown, including the exact send frequency by period, why resending the same email with a new subject line works better than you'd think, and the full Q1 profit recovery playbook."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph"
+                }
+              ],
+              "duration": "56:13",
+              "videoLenMs": 3373000,
+              "thumbnail": "https://i.ytimg.com/vi/KHK4pyofUgs/maxresdefault.jpg",
+              "hasVideo": true,
+              "locked": false,
+              "resources": [],
+              "transcript": "",
+              "completed": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8865a0cd92264d298b7ef1ebc1685963",
+      "title": "The Vault: BFCM Email & SMS Resources",
+      "description": "Black Friday / Cyber Monday templates, resources, and real client results.",
+      "coverImage": "https://pub-311adc1dea8c4a318f1f9d117af50b4c.r2.dev/email-marketerz/assets/3feea452dacea48cb7fc2c53.jpg",
+      "order": 5,
+      "hasAccess": true,
+      "sections": [
+        {
+          "id": "8865a0cd92264d298b7ef1ebc1685963-main",
+          "title": "The Vault: BFCM Email & SMS Resources",
+          "order": 1,
+          "lessons": [
+            {
+              "id": "11c0a70e67e74584bba46a448283b9d1",
+              "title": "👋 Intro",
+              "order": 1,
+              "description": "Black Friday / Cyber Monday is upon us...\nThese modules and resources are made to help you execute in the most efficient way possible and generate the best results possible.\nIf there's anything missing or further resources you would like me to put together inside of here, just let me know inside the community, and we will get it built out.\nEnjoy!",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Black Friday / Cyber Monday is upon us..."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These modules and resources are made to help you execute in the most efficient way possible and generate the best results possible. "
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "If there's anything missing or further resources you would like me to put together inside of here, just let me know inside the community, and we will get it built out."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Enjoy!"
+                    }
+                  ]
+                }
+              ],
+              "duration": "1:55",
+              "videoLenMs": 115324,
+              "thumbnail": "https://cdn.loom.com/sessions/thumbnails/6465513b600046ff94058925be5cfc7a-5d97ad3b642f6ad2.gif",
+              "hasVideo": true,
+              "locked": false,
+              "resources": [],
+              "transcript": "",
+              "completed": false
+            },
+            {
+              "id": "627c67c78423449a9255555eccea43aa",
+              "title": "🎥 📄 Tutorial Video And Document",
+              "order": 2,
+              "description": "Link To Master Document >>\nEveryone wins Q4 on revenue. Not many win on profit.\nInside: the 2025 data that should change how you plan this year, the full offer timeline from September to Christmas, the email and SMS execution plan, and the Q1 system that makes your BFCM customers actually worth what you paid for them.\nStart now. A lot of this doesn't work if you pick it up in November.",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "class": "link",
+                            "href": "https://gamma.app/docs/The-2026-Q4-Ecommerce-Profit-Playbook-futnq2l9pbq8h2y",
+                            "rel": "noopener noreferrer nofollow",
+                            "target": "_blank"
+                          }
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Link To Master Document >>"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Everyone wins Q4 on revenue. Not many win on profit. "
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Inside: the 2025 data that should change how you plan this year, the full offer timeline from September to Christmas, the email and SMS execution plan, and the Q1 system that makes your BFCM customers actually worth what you paid for them."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Start now. A lot of this doesn't work if you pick it up in November."
+                    }
+                  ]
+                }
+              ],
+              "duration": "",
+              "videoLenMs": 0,
+              "thumbnail": "https://cdn.loom.com/assets/img/og/slack-protected-video.gif",
+              "hasVideo": false,
+              "locked": false,
+              "resources": [
+                {
+                  "title": "Link To Master Document",
+                  "link": "https://gamma.app/docs/The-2026-Q4-Ecommerce-Profit-Playbook-futnq2l9pbq8h2y"
+                }
+              ],
+              "transcript": "",
+              "completed": false
+            },
+            {
+              "id": "8e02e66688ab44608290cf843766b620",
+              "title": "🧩 BFCM Email Templates",
+              "order": 3,
+              "description": "Link To Templates File >>\n[Clone this Figma file to edit OR select all emails, copy, and paste to your own file]\n180 templates, built in Figma and ready to edit.\nCampaigns for every phase of the season, plus full flow builds: welcome, site abandon, browse abandon, cart abandon, checkout abandon, and post-purchase.\nProven to convert, made to reduce your time.",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "class": "link",
+                            "href": "https://www.figma.com/design/qS9KTJilrEuLlgYXVXY7sZ/BFCM-Templates?node-id=0-1",
+                            "rel": "noopener noreferrer nofollow",
+                            "target": "_blank"
+                          }
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Link To Templates File >>"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "[Clone this Figma file to edit OR select all emails, copy, and paste to your own file]"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "180 templates, built in Figma and ready to edit. "
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Campaigns for every phase of the season, plus full flow builds: welcome, site abandon, browse abandon, cart abandon, checkout abandon, and post-purchase."
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Proven to convert, made to reduce your time."
+                    }
+                  ]
+                }
+              ],
+              "duration": "2:56",
+              "videoLenMs": 175867,
+              "thumbnail": "https://cdn.loom.com/sessions/thumbnails/5e1ba4ff98e94a3e80d808c7644a65bb-15fb82d7d9d0ecd8.gif",
+              "hasVideo": true,
+              "locked": false,
+              "resources": [
+                {
+                  "title": "Link To Templates File",
+                  "link": "https://www.figma.com/design/qS9KTJilrEuLlgYXVXY7sZ/BFCM-Templates---Results?node-id=79-10080"
+                }
+              ],
+              "transcript": "",
+              "completed": false
+            },
+            {
+              "id": "2f3f49e6e4504801ba6a6d684ca03845",
+              "title": "📈 Klaviyo Results Vault",
+              "order": 4,
+              "description": "Link To Results File >>\nThese are 12 real clients’ Klaviyo account campaign results, segmentation, and calendars from last year.\nUse these as inspo as you put together your calendars and prep for results to expect.",
+              "descriptionDoc": [
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "marks": [
+                        {
+                          "type": "link",
+                          "attrs": {
+                            "class": "link",
+                            "href": "https://www.figma.com/design/qS9KTJilrEuLlgYXVXY7sZ/BFCM-Templates---Results?node-id=60-1667",
+                            "rel": "noopener noreferrer nofollow",
+                            "target": "_blank"
+                          }
+                        },
+                        {
+                          "type": "bold"
+                        }
+                      ],
+                      "text": "Link To Results File >>"
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "These are 12 real clients’ Klaviyo account campaign results, segmentation, and calendars from last year. "
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "content": [
+                    {
+                      "type": "text",
+                      "text": "Use these as inspo as you put together your calendars and prep for results to expect."
+                    }
+                  ]
+                }
+              ],
+              "duration": "1:47",
+              "videoLenMs": 106701,
+              "thumbnail": "https://cdn.loom.com/sessions/thumbnails/29206cff323741f88126d11c79e2b240-a21e8643e86d7d8a.gif",
+              "hasVideo": true,
+              "locked": false,
+              "resources": [
+                {
+                  "title": "Link To Results File",
+                  "link": "https://www.figma.com/design/qS9KTJilrEuLlgYXVXY7sZ/BFCM-Templates---Results?node-id=60-1667"
+                }
+              ],
               "transcript": "",
               "completed": false
             }
@@ -80516,7 +81412,7 @@
       "title": "VIP Call Recordings / Resources",
       "description": "For VIP Consulting Members. Recordings from Daily Office Hours.",
       "coverImage": "https://pub-311adc1dea8c4a318f1f9d117af50b4c.r2.dev/email-marketerz/assets/9ecb207336cf1cd7ec56412a.jpg",
-      "order": 5,
+      "order": 6,
       "hasAccess": false,
       "sections": [
         {
